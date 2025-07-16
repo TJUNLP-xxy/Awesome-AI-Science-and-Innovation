@@ -8,13 +8,13 @@
  
 - [问题提出 (Problem Generation)](#问题提出-problem-generation) 
 - [假设生成 (Hypothesis Generation)](#假设生成-hypothesis-generation) 
-- [实验设计与执行 (Experiment Design ^& Execution)](#实验设计与执行-experiment-design--execution) 
-- [科学交流与展示 (Scientific Communication ^& Presentation)](#科学交流与展示-scientific-communication--presentation) 
+- [实验设计与执行 (Experiment Design & Execution)](#实验设计与执行-experiment-design--execution) 
+- [科学交流与展示 (Scientific Communication & Presentation)](#科学交流与展示-scientific-communication--presentation) 
 - [端到端科学发现系统 (End-to-End Discovery Systems)](#端到端科学发现系统-end-to-end-discovery-systems) 
-- [评估与验证 (Evaluation ^& Validation)](#评估与验证-evaluation--validation) 
+- [评估与验证 (Evaluation & Validation)](#评估与验证-evaluation--validation) 
 - [领域应用 (Domain Applications)](#领域应用-domain-applications) 
-- [平台与工具链 (Platforms ^& Toolchains)](#平台与工具链-platforms--toolchains) 
-- [挑战与风险 (Challenges ^& Risks)](#挑战与风险-challenges--risks) 
+- [平台与工具链 (Platforms & Toolchains)](#平台与工具链-platforms--toolchains) 
+- [挑战与风险 (Challenges & Risks)](#挑战与风险-challenges--risks) 
 - [贡献指南 (Contributing)](#贡献指南-contributing) 
 - [许可证 (License)](#许可证-license) 
  
@@ -45,7 +45,7 @@
 - **SciAgents: Automating Scientific Discovery through Multi-Agent Intelligent Graph Reasoning** (2024-09-09) 
   基于多智能体图推理的自动科学发现。 
  
-## 实验设计与执行 (Experiment Design ^& Execution) 
+## 实验设计与执行 (Experiment Design & Execution) 
  
 - **AutoSciLab: A Self-Driving Laboratory for Interpretable Scientific Discovery** (2024-12-16) 
   自动驾驶实验室平台，用于可解释科学实验。 
@@ -56,7 +56,7 @@
 - **BO-Muse: A Human Expert and AI Teaming Framework for Accelerated Experimental Design** (2023-03-30) 
   人机协同加速实验设计框架。 
  
-## 科学交流与展示 (Scientific Communication ^& Presentation) 
+## 科学交流与展示 (Scientific Communication & Presentation) 
  
 - **CycleResearcher: Improving Automated Research via Automated Review** (2024-10-28) 
   通过自动评审提升科研自动化。 
@@ -78,7 +78,7 @@
 - **Agent Laboratory: Using LLM Agents as Research Assistants** (2025-01-08) 
   利用大语言模型代理辅助科研。 
  
-## 评估与验证 (Evaluation ^& Validation) 
+## 评估与验证 (Evaluation & Validation) 
  
 - **EarthSE: A Benchmark for Evaluating Earth Scientific Exploration Capability of LLMs** (2025-05-22) 
   地球科学领域LLM能力基准。 
@@ -95,12 +95,12 @@
 - **交叉学科与社会科学**：社科事件分析、金融预测。 
 - **计算机科学与人工智能**：AI算法优化、模型设计。 
  
-## 平台与工具链 (Platforms ^& Toolchains) 
+## 平台与工具链 (Platforms & Toolchains) 
  
 - **AlphaEvolve、ChemCrow、AlphaFold** 等自动科研平台。 
 - **SciBench、PaperRobot** 等数据与评估平台。 
  
-## 挑战与风险 (Challenges ^& Risks) 
+## 挑战与风险 (Challenges & Risks) 
  
 - 数据和知识偏差问题。 
 - 推理结果的可验证性。 
