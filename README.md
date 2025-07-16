@@ -23,7 +23,7 @@
 ## 问题提出 (Problem Generation) 
  
 - **SciQAG: A Framework for Auto-Generated Science Question Answering Dataset with Fine-grained Evaluation** (2024-07-10) 
-  自动生成科学问题与答案数据集框架，细粒度评估方法。 
+  自动生成科学问题与答案数据集框架，细粒度评估方法。  [Paper](https://arxiv.org/html/2405.09939v1) | [Code](https://github.com/MasterAI-EAM/SciQAG)
  
 - **LBD + Template Questioning** 
   结合文献基础发现和模板提问自动生成科学问题。 
