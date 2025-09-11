@@ -31,12 +31,14 @@
   [[Paper]](https://doi.org/10.1016/0004-3702(93)90068-M) ![](https://img.shields.io/badge/DOI-1993-Chem-AI?style=flat-square&logo=doi)
 - **An Interactive System for Finding Complementary Literatures: A Stimulus to Scientific Discovery** (1997-04)
   [[Paper]](https://doi.org/10.1016/S0004-3702(97)00008-8) ![](https://img.shields.io/badge/DOI-1997-Lit-AI?style=flat-square&logo=doi)
+- **Exploiting Semantic Relations for Literature-Based Discovery** (2006)
+  [Paper]](https://pubmed.ncbi.nlm.nih.gov/17238361/) <sub>![](https://img.shields.io/badge/PMID-2006-17238361?style=flat-square&logo=pubmed)</sub>
 - **The Robot Scientist Adam** (2009-08)
   [[Paper]](https://doi.org/10.1109/MC.2009.270) <sub>![](https://img.shields.io/badge/DOI-2009--Adam-red?style=flat-square&logo=doi)</sub>
-- **Literature Mining for the Discovery of Hidden Connections between Drugs, Genes and Diseases** (2010-09)  
-- **Exploiting Semantic Relations for Literature-Based Discovery** (2006)  
-- **Literature Based Discovery: Models, Methods, and Trends** (2017)  
-- **Knowledge Integration and Decision Support for Accelerated Discovery of Antibiotic Resistance Genes** (2022-05)  
+- **Literature Mining for the Discovery of Hidden Connections between Drugs, Genes and Diseases** (2010-09)
+  [[Paper]](https://doi.org/10.1371/journal.pcbi.1000943) <sub>![](https://img.shields.io/badge/DOI-2010-CoPubDiscovery?style=flat-square&logo=doi)</sub>
+- **Knowledge Integration and Decision Support for Accelerated Discovery of Antibiotic Resistance Genes** (2022-05)
+  [[Paper]](https://doi.org/10.1038/s41467-022-29993-z) <sub>![](https://img.shields.io/badge/DOI-2022-KIDS?style=flat-square&logo=doi)</sub>
 - **Large Language Models are Zero-shot Reasoners** (2022-12, NeurIPS)  
 - **AGATHA: Automatic Graph Mining and Transformer Based Hypothesis Generation Approach** (2020-10, CIKM)  
 - **Large Language Models are Zero-shot Hypothesis Proposers** (2023-11)  
