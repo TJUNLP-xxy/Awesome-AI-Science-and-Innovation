@@ -204,7 +204,13 @@
 
 ## Platforms and Toolchains
 
----
+- **Language agents achieve superhuman synthesis of scientific knowledge** (2024, *arXiv*) [Paper](https://arxiv.org/abs/2409.13740) <sub>![](https://img.shields.io/badge/arXiv-2024-blue?style=flat-square&logo=arxiv)</sub>
+
+- **scite: A smart citation index that displays the context of citations and classifies their intent using deep learning** (2021, *Quantitative science studies*) [Paper](https://doi.org/10.1162/qss_a_00146) <sub>![](https://img.shields.io/badge/QSS-2021-purple?style=flat-square&logo=book)</sub>
+
+- **Snakemake—a scalable bioinformatics workflow engine** (2012, *Bioinformatics*) [Paper](https://doi.org/10.1093/bioinformatics/bts480) <sub>![](https://img.shields.io/badge/Bioinformatics-2012-green?style=flat-square&logo=book)</sub>
+
+- **Nextflow enables reproducible computational workflows** (2017, *Nature biotechnology*) [Paper](https://doi.org/10.1038/nbt.3820) <sub>![](https://img.shields.io/badge/Nature%20Biotech-2017-blue?style=flat-square&logo=book)</sub>
 
 ## Challenges and Risks
 
