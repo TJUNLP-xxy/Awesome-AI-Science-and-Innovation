@@ -130,53 +130,54 @@
 
 ### Human-AI Collaboration Paradigm
 
-- **AI/RHEUM: An expert consultant system in rheumatology** (1982, *ACM*)  
-  [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2578321/) <sub>![](https://img.shields.io/badge/ACM-1982-orange?style=flat-square&logo=book)</sub>
+- **AI/RHEUM: An expert consultant system in rheumatology** (1983, *ACM*)  
+  [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2578321/)
 
 - **Using ARROWSMITH: a computer-assisted approach to formulating and assessing scientific hypotheses** (1998, *Computer Methods and Programs in Biomedicine*)  
-  [[Paper]](https://doi.org/10.1016/S0169-2607(98)00029-5) <sub>![](https://img.shields.io/badge/Comp_Methods_Biomed-1998-green?style=flat-square&logo=book)</sub>
+  [Paper](https://doi.org/10.1016/S0169-2607(98)00029-5)
 
-- **Crowdsourced RNA design discovers diverse, reversible, efficient, self-contained molecular switches** (2022, *PNAS*)  
-  [[Paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2112979119) <sub>![](https://img.shields.io/badge/PNAS-2022-green?style=flat-square&logo=book)</sub>
+- **Crowdsourced RNA design discovers diverse, reversible, efficient, self-contained molecular switches** (2022, *Proceedings of the National Academy of Sciences*)  
+  [Paper](https://www.pnas.org/doi/abs/10.1073/pnas.2112979119)
 
-- **Human-In-the-Loop for Bayesian Autonomous Materials Phase Mapping** (2023-06, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2306.10406) <sub>![](https://img.shields.io/badge/arXiv-2023-red?style=flat-square&logo=book)</sub>
+- **Human-In-the-Loop for Bayesian Autonomous Materials Phase Mapping** (2023, *arXiv*)  
+  [Paper](https://arxiv.org/abs/2306.10406)
 
 - **Human-in-the-loop active learning for goal-oriented molecule generation** (2024, *Journal of Cheminformatics*)  
-  [[Paper]](https://doi.org/10.1186/s13321-024-00924-y) <sub>![](https://img.shields.io/badge/J_Cheminformatics-2024-green?style=flat-square&logo=book)</sub>
+  [Paper](https://doi.org/10.1186/s13321-024-00924-y)
 
-- **Guided Statistical Workflows with Interactive Explanations and Assumption Checking** (2024-10, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2410.00365) <sub>![](https://img.shields.io/badge/arXiv-2024-red?style=flat-square&logo=book)</sub>
+- **Guided Statistical Workflows with Interactive Explanations and Assumption Checking** (2024, *arXiv*)  
+  [Paper](https://arxiv.org/abs/2410.00365)
 
 - **Scientific hypothesis generation by large language models: laboratory validation in breast cancer treatment** (2025, *Journal of The Royal Society Interface*)  
-  [[Paper]](http://doi.org/10.1098/rsif.2024.0674) <sub>![](https://img.shields.io/badge/JRS_Interface-2025-green?style=flat-square&logo=book)</sub>
+  [Paper](http://doi.org/10.1098/rsif.2024.0674)
 
 - **AI-Assisted Hypothesis Generation to Address Challenges in Cardiotoxicity Research: Simulation Study Using ChatGPT With GPT-4o** (2025, *JMIR*)  
-  [[Paper]](https://doi.org/10.2196/66161) <sub>![](https://img.shields.io/badge/JMIR-2025-green?style=flat-square&logo=book)</sub>
+  [Paper](https://doi.org/10.2196/66161)
 
-- **Hypothesis generation for materials discovery and design using goal-driven and constraint-guided LLM agents** (2025-01, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2501.13299) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub>
+- **Hypothesis generation for materials discovery and design using goal-driven and constraint-guided LLM agents** (2025, *arXiv*)  
+  [Paper](https://arxiv.org/abs/2501.13299)
 
-- **PriM: Principle-Inspired Material Discovery through Multi-Agent Collaboration** (2025-04, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2504.08810) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub>
+- **PriM: Principle-Inspired Material Discovery through Multi-Agent Collaboration** (2025, *arXiv*)  
+  [Paper](https://arxiv.org/abs/2504.08810)
 
-- **IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery** (2025-04, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2504.16728) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub>
+- **IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery** (2025, *arXiv*)  
+  [Paper](https://arxiv.org/abs/2504.16728)
 
-- **"The Diagram is like Guardrails": Structuring GenAI-assisted Hypotheses Exploration with an Interactive Shared Representation** (2025, *C&C*)  
-  [[Paper]](https://doi.org/10.1145/3698061.3726935) <sub>![](https://img.shields.io/badge/C&C-2025-orange?style=flat-square&logo=book)</sub>
+- **"The Diagram is like Guardrails": Structuring GenAI-assisted Hypotheses Exploration with an Interactive Shared Representation** (2025, *ACM Conference on Creativity and Cognition*)  
+  [Paper](https://doi.org/10.1145/3698061.3726935)
 
 - **Scideator: Human-LLM Scientific Idea Generation Grounded in Research-Paper Facet Recombination** (2025, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2409.14634) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub>
+  [Paper](https://arxiv.org/abs/2409.14634)
 
-- **HypoChainer: A Collaborative System Combining LLMs and Knowledge Graphs for Hypothesis-Driven Scientific Discovery** (2025-07, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2507.17209) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub>
+- **HypoChainer: A Collaborative System Combining LLMs and Knowledge Graphs for Hypothesis-Driven Scientific Discovery** (2025, *arXiv*)  
+  [Paper](https://arxiv.org/abs/2507.17209)
 
-- **IdeaSynth: Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback** (2025, *CHI*)  
-  [[Paper]](http://dx.doi.org/10.1145/3706598.3714057) <sub>![](https://img.shields.io/badge/CHI-2025-orange?style=flat-square&logo=book)</sub>
+- **IdeaSynth: Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback** (2025, *CHI Conference on Human Factors in Computing Systems*)  
+  [Paper](http://dx.doi.org/10.1145/3706598.3714057)
 
-- **PersonaFlow: Designing LLM-Simulated Expert Perspectives for Enhanced Research Ideation** (2025, *DIS*)  
-  [[Paper]](http://dx.doi.org/10.1145/3715336.3735789) <sub>![](https://img.shields.io/badge/DIS-2025-orange?style=flat-square&logo=book)</sub>
+- **PersonaFlow: Designing LLM-Simulated Expert Perspectives for Enhanced Research Ideation** (2025, *ACM Designing Interactive Systems Conference*)  
+  [Paper](http://dx.doi.org/10.1145/3715336.3735789)
+
 
 
 
