@@ -24,7 +24,7 @@
 ## Knowledge Acquisition and Problem Generation
 
 - **SciQAG: A Framework for Auto-Generated Science Question Answering Dataset with Fine-grained Evaluation** (2024-07) 
-   [[Paper]](https://arxiv.org/html/2405.09939v1) <img src="https://img.shields.io/badge/arXiv-2024.05-red?style=flat-square&logo=arxiv" style="vertical-align:middle;"> [[Code]](https://github.com/MasterAI-EAM/SciQAG)
+   [[Paper]](https://arxiv.org/html/2405.09939v1) <sup>![](https://img.shields.io/badge/arXiv-2024.05-red?style=flat-square&logo=arxiv)</sup> [[Code]](https://github.com/MasterAI-EAM/SciQAG)
 
 ## Idea and Hypothesis Generation
 - **DENDRAL: A case study of the first expert system for scientific hypothesis formation** (1993-06)
@@ -32,7 +32,7 @@
 - **An Interactive System for Finding Complementary Literatures: A Stimulus to Scientific Discovery** (1997-04)
   [[Paper]](https://doi.org/10.1016/S0004-3702(97)00008-8) ![](https://img.shields.io/badge/DOI-1997-Lit-AI?style=flat-square&logo=doi)
 - **The Robot Scientist Adam** (2009-08)
-  [[Paper]](https://doi.org/10.1109/MC.2009.270) <img src="https://img.shields.io/badge/DOI-2009-Adam?style=flat-square&logo=doi" style="vertical-align:middle;">
+  [[Paper]](https://doi.org/10.1109/MC.2009.270) <sup>![](https://img.shields.io/badge/DOI-2009--Adam-red?style=flat-square&logo=doi)</sup>
 - **Literature Mining for the Discovery of Hidden Connections between Drugs, Genes and Diseases** (2010-09)  
 - **Exploiting Semantic Relations for Literature-Based Discovery** (2006)  
 - **Literature Based Discovery: Models, Methods, and Trends** (2017)  
