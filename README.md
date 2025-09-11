@@ -23,12 +23,49 @@
 
 ## Knowledge Acquisition and Problem Generation
 
-- **SciQAG: A Framework for Auto-Generated Science Question Answering Dataset with Fine-grained Evaluation** (2024-07-10) 
+- **SciQAG: A Framework for Auto-Generated Science Question Answering Dataset with Fine-grained Evaluation** (2024-07) 
    [[Paper]](https://arxiv.org/html/2405.09939v1) ![](https://img.shields.io/badge/arXiv-2024.05-red?style=flat-square&logo=arxiv) [[Code]](https://github.com/MasterAI-EAM/SciQAG)
 
 ## Idea and Hypothesis Generation
-
----
+- **DENDRAL: A case study of the first expert system for scientific hypothesis formation** (1993-06)
+  [[Paper]](https://doi.org/10.1016/0004-3702(93)90068-M) ![](https://img.shields.io/badge/DOI-1993-Chem-AI?style=flat-square&logo=doi)
+- **An Interactive System for Finding Complementary Literatures: A Stimulus to Scientific Discovery** (1997-04)
+  [[Paper]](https://doi.org/10.1016/S0004-3702(97)00008-8) ![](https://img.shields.io/badge/DOI-1997-Lit-AI?style=flat-square&logo=doi)
+- **The Robot Scientist Adam** (2009-08)
+  [[Paper]](https://doi.org/10.1109/MC.2009.270) ![](https://img.shields.io/badge/DOI-2009-Adam?style=flat-square&logo=doi) 
+- **Literature Mining for the Discovery of Hidden Connections between Drugs, Genes and Diseases** (2010-09)  
+- **Exploiting Semantic Relations for Literature-Based Discovery** (2006)  
+- **Literature Based Discovery: Models, Methods, and Trends** (2017)  
+- **Knowledge Integration and Decision Support for Accelerated Discovery of Antibiotic Resistance Genes** (2022-05)  
+- **Large Language Models are Zero-shot Reasoners** (2022-12, NeurIPS)  
+- **AGATHA: Automatic Graph Mining and Transformer Based Hypothesis Generation Approach** (2020-10, CIKM)  
+- **Large Language Models are Zero-shot Hypothesis Proposers** (2023-11)  
+- **CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society** (2023-12, NeurIPS)  
+- **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation** (2023-08)  
+- **Can LLMs Generate Novel Research Ideas? A Large-scale Human Study with 100+ NLP Researchers** (2024-09)  
+- **SciMON: Scientific Inspiration Machines Optimized for Novelty** (2024-07, ACL)  
+- **Large Language Models for Automated Open-domain Scientific Hypotheses Discovery** (2024-07, ACL Findings)  
+- **SciPIP: An LLM-based Scientific Paper Idea Proposer** (2024-10)  
+- **Chain of Ideas: Revolutionizing Research via Novel Idea Development with LLM Agents** (2024-10)  
+- **Nova: An Iterative Planning and Search Approach to Enhance Novelty and Diversity of LLM Generated Ideas** (2024-10)  
+- **Moose-chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses** (2024-10)  
+- **Many Heads Are Better Than One: Improved Scientific Idea Generation by an LLM-Based Multi-Agent System** (2024-10)  
+- **Improving Scientific Hypothesis Generation with Knowledge Grounded Large Language Models** (2024-11)  
+- **IdeaBench: Benchmarking Large Language Models for Research Idea Generation** (2024-11)  
+- **LiveIdeaBench: Evaluating LLMs’ Divergent Thinking for Scientific Idea Generation with Minimal Context** (2024-12)  
+- **Tong et al. – Automating Psychological Hypothesis Generation with AI** (2024)  
+- **Sparks of Science: Hypothesis Generation Using Structured Paper Data** (2025-04)  
+- **AI Idea Bench 2025: AI Research Idea Generation Benchmark** (2025-04)  
+- **GraphEval: A Lightweight Graph-Based LLM Framework for Idea Evaluation** (2025-05, ICLR)  
+- **CodeScientist: End-to-End Semi-automated Scientific Discovery with Code-based Experimentation** (2025-03)  
+- **DrugMCTS: A Drug Repurposing Framework Combining Multi-agent, RAG and Monte Carlo Tree Search** (2025-07)  
+- **BioDisco: Multi-agent Hypothesis Generation with Dual-mode Evidence, Iterative Feedback and Temporal Evaluation** (2025-08)  
+- **Spacer: Towards Engineered Scientific Inspiration** (2025-08)  
+- **Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery** (2025-08)  
+- **GoAI: Enhancing AI Students’ Learning Paths and Idea Generation via Graph of AI Ideas** (2025-03)  
+- **Interesting Scientific Idea Generation using Knowledge Graphs and LLMs** (2025-05)  
+- **Research Hypothesis Generation over Scientific Knowledge Graphs** (2025-01, Knowledge-Based Systems)  
+- **SciAgents: Automating Scientific Discovery through Bioinspired Multi-agent Intelligent Graph Reasoning** (2025, Advanced Materials)  
 
 ## Experiment Design and Execution
 
