@@ -1,8 +1,14 @@
 # Awesome LLM for Science and Innovation
 
-> This repository provides a curated collection of research papers, platforms, and case studies on the use of Large Language Models (LLMs) for science and innovation.  
-> It covers the full workflow from knowledge acquisition and problem generation, idea and hypothesis generation, experiment design and execution, to scientific communication, integrated end-to-end systems, and domain-specific applications.  
-> The goal is to serve as a systematic, up-to-date, and centralized resource hub for researchers and practitioners in AI-driven science and innovation.
+> This repository provides a **curated and structured collection** of research papers, platforms, and case studies on the use of Large Language Models (LLMs) for **scientific discovery and innovation**.  
+> It systematically spans the **end-to-end scientific workflow** — from *knowledge acquisition and problem generation*, *idea and hypothesis generation*, *experiment design and execution*, to *scientific communication*, *integrated discovery systems*, and *domain-specific innovations*.  
+> Our goal is to create a **comprehensive, up-to-date, and centralized resource hub** that supports both researchers and practitioners in exploring the **automation and human-AI collaboration paradigms** of AI-driven science.
+
+---
+
+![Comparison of Automation Paradigm and Human-AI Collaboration Paradigm in AI-driven Science and Innovation. The figure highlights their roles across the workflow: knowledge acquisition and problem generation, idea and hypothesis generation, experiment design and execution, scientific communication, and integrated discovery systems.](./Introduction.png)
+*Figure 1. Automation vs. Human-AI Collaboration paradigms across the scientific workflow.*
+
 
 ---
 
