@@ -65,37 +65,37 @@
   [[Paper]](https://arxiv.org/abs/2311.05965) <sub>![](https://img.shields.io/badge/NeurIPS-2023-lightblue?style=flat-square&logo=book)</sub>
 
 - **Interesting Scientific Idea Generation using Knowledge Graphs and LLMs** (2024-05, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2405.17044) <sub>![](https://img.shields.io/badge/arXiv-2024-red?style=flat-square&logo=book)</sub>
+  [[Paper]](https://arxiv.org/abs/2405.17044) <sub>![](https://img.shields.io/badge/arXiv-2024-red?style=flat-square&logo=book)</sub> [[Code]](https://github.com/artificial-scientist-lab/SciMuse)
 
 - **Automating psychological hypothesis generation with AI: when Large Language Models meet causal graph** (2024-07, *Humanities & Social Sciences Communications*)  
   [[Paper]](https://doi.org/10.1057/s41599-024-03407-5) <sub>![](https://img.shields.io/badge/HSS_Comms-2024-green?style=flat-square&logo=book)</sub>
 
 - **Large Language Models for Automated Open-domain Scientific Hypotheses Discovery** (2024-08, *Findings of ACL 2024*)  
-  [[Paper]](https://aclanthology.org/2024.findings-acl.804/) <sub>![](https://img.shields.io/badge/ACL_Findings-2024-blue?style=flat-square&logo=book)</sub>
+  [[Paper]](https://aclanthology.org/2024.findings-acl.804/) <sub>![](https://img.shields.io/badge/ACL_Findings-2024-blue?style=flat-square&logo=book)</sub> [[Code]](https://github.com/SenticNet/MOOSE)
 
 - **SciMON: Scientific Inspiration Machines Optimized for Novelty** (2024-08, *ACL*)  
-  [[Paper]](https://aclanthology.org/2024.acl-long.18/) <sub>![](https://img.shields.io/badge/ACL-2024-blue?style=flat-square&logo=book)</sub>
+  [[Paper]](https://aclanthology.org/2024.acl-long.18/) <sub>![](https://img.shields.io/badge/ACL-2024-blue?style=flat-square&logo=book)</sub>  [[Code]](https://github.com/eaglew/clbd)
 
 - **Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers** (2024-09, *arXiv*)  
-  [[Paper]](https://doi.org/10.48550/arXiv.2409.04109) <sub>![](https://img.shields.io/badge/arXiv-2024-red?style=flat-square&logo=book)</sub>
+  [[Paper]](https://doi.org/10.48550/arXiv.2409.04109) <sub>![](https://img.shields.io/badge/arXiv-2024-red?style=flat-square&logo=book)</sub> [[Code]](https://github.com/NoviScl/AI-Researcher)
 
 - **SciPIP: An LLM-based Scientific Paper Idea Proposer** (2024-10, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2410.23166) <sub>![](https://img.shields.io/badge/arXiv-2024-red?style=flat-square&logo=book)</sub>
+  [[Paper]](https://arxiv.org/abs/2410.23166) <sub>![](https://img.shields.io/badge/arXiv-2024-red?style=flat-square&logo=book)</sub>  [[Code]](https://github.com/cheerss/SciPIP)
 
 - **Chain of Ideas: Revolutionizing Research via Novel Idea Development with LLM Agents** (2024-10, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2410.13185) <sub>![](https://img.shields.io/badge/arXiv-2024-red?style=flat-square&logo=book)</sub>
+  [[Paper]](https://arxiv.org/abs/2410.13185) <sub>![](https://img.shields.io/badge/arXiv-2024-red?style=flat-square&logo=book)</sub> [[Code]](https://github.com/DAMO-NLP-SG/CoI-Agent)
 
-- **Nova: An Iterative Planning and Search Approach to Enhance Novelty and Diversity of LLM Generated Ideas** (2024-10, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2410.14255) <sub>![](https://img.shields.io/badge/arXiv-2024-red?style=flat-square&logo=book)</sub>
+- **Nova: An Iterative Planning and Search Approach to Enhance Novelty and Diversity of LLM Generated Ideas** (2024-10, *Findings of ACL 2025*)  
+  [[Paper]](https://arxiv.org/abs/2410.14255) <sub>![](https://img.shields.io/badge/ACL_Findings-2025-blue?style=flat-square&logo=book)</sub> [[Code]](https://github.com/hflyzju/Nova)
 
-- **Moose-chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses** (2024-10, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2410.07076) <sub>![](https://img.shields.io/badge/arXiv-2024-red?style=flat-square&logo=book)</sub>
+- **Moose-chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses** (2024-10, *ICLR 2025*)  
+  [[Paper]](https://arxiv.org/abs/2410.07076) <sub>![](https://img.shields.io/badge/ICLR-2025-blue?style=flat-square&logo=book)</sub> [[Code]](https://github.com/ZonglinY/MOOSE-Chem)
 
-- **Many Heads Are Better Than One: Improved Scientific Idea Generation by an LLM-Based Multi-Agent System** (2024-10, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2410.09403) <sub>![](https://img.shields.io/badge/arXiv-2024-red?style=flat-square&logo=book)</sub>
+- **Many Heads Are Better Than One: Improved Scientific Idea Generation by an LLM-Based Multi-Agent System** (2024-10, *ACL 2025*)  
+  [[Paper]](https://arxiv.org/abs/2410.09403) <sub>![](https://img.shields.io/badge/ACL-2025-blue?style=flat-square&logo=book)</sub> [[Code]](https://github.com/RenqiChen/Virtual-Scientists)
 
 - **Improving Scientific Hypothesis Generation with Knowledge Grounded Large Language Models** (2024-11, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2411.02382) <sub>![](https://img.shields.io/badge/arXiv-2024-red?style=flat-square&logo=book)</sub>
+  [[Paper]](https://arxiv.org/abs/2411.02382) <sub>![](https://img.shields.io/badge/arXiv-2024-red?style=flat-square&logo=book)</sub> [[Code]](https://anonymous/open.science/r/KG-CoI-C203)
 
 - **SciAgents: Automating Scientific Discovery through Bioinspired Multi-agent Intelligent Graph Reasoning** (2024-12, *Advanced Materials*)  
   [[Paper]](https://doi.org/10.1002/adma.202413523) <sub>![](https://img.shields.io/badge/Advanced_Materials-2024-darkgreen?style=flat-square&logo=book)</sub>
@@ -104,19 +104,19 @@
   [[Paper]](https://arxiv.org/abs/2503.08549) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub>
 
 - **CodeScientist: End-to-End Semi-automated Scientific Discovery with Code-based Experimentation** (2025-03, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2503.22708) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub>
+  [[Paper]](https://arxiv.org/abs/2503.22708) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub> [[Code]](https://github.com/allenai/codescientist)
 
 - **Sparks of Science: Hypothesis Generation Using Structured Paper Data** (2025-04, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2504.12976) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub>
+  [[Paper]](https://arxiv.org/abs/2504.12976) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub> [[Code]](https://github.com/UniverseTBD/hypogen-cs)
 
 - **Research Hypothesis Generation over Scientific Knowledge Graphs** (2025-04, *Knowledge-Based Systems*)  
   [[Paper]](https://doi.org/10.1016/j.knosys.2025.113280) <sub>![](https://img.shields.io/badge/Knowledge_Based_Systems-2025-green?style=flat-square&logo=book)</sub>
 
 - **DrugMCTS: A Drug Repurposing Framework Combining Multi-agent, RAG and Monte Carlo Tree Search** (2025-07, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2507.07426) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub>
+  [[Paper]](https://arxiv.org/abs/2507.07426) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub> [[Code]](https://github.com/yaoge777/DrugMCTS)
 
 - **BioDisco: Multi-agent Hypothesis Generation with Dual-mode Evidence, Iterative Feedback and Temporal Evaluation** (2025-08, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2508.01285) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub>
+  [[Paper]](https://arxiv.org/abs/2508.01285) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub> [[Code]](https://github.com/yujingke/BioDisco)
 
 - **Spacer: Towards Engineered Scientific Inspiration** (2025-08, *arXiv*)  
   [[Paper]](https://arxiv.org/abs/2508.17661) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub>
