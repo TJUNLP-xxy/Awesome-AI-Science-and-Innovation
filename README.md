@@ -131,8 +131,8 @@
 ### Human-AI Collaboration Paradigm
 
 
-- **AI/RHEUM: An expert consultant system in rheumatology** (1982, *Proc. Annu. Symp. Comput. Appl. Med. Care*)  
-  [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2578321/) <sub>![](https://img.shields.io/badge/Proc_Symp_CAMC-1982-green?style=flat-square&logo=book)</sub>
+- **AI/RHEUM. A consultant system for rheumatology** (1983-06, *Journal of Medical Systems*)  
+  [[Paper]](https://doi.org/10.1007/BF00993283) <sub>![](https://img.shields.io/badge/J_Med_Syst-1983-green?style=flat-square&logo=book)</sub>
 
 - **Using ARROWSMITH: a computer-assisted approach to formulating and assessing scientific hypotheses** (1998-11, *Computer Methods and Programs in Biomedicine*)  
   [[Paper]](https://pubmed.ncbi.nlm.nih.gov/9822851/) <sub>![](https://img.shields.io/badge/Comp_Methods_Biomed-1998-green?style=flat-square&logo=book)</sub>
@@ -141,10 +141,10 @@
   [[Paper]](https://www.pnas.org/doi/10.1073/pnas.2112979119) <sub>![](https://img.shields.io/badge/PNAS-2022-green?style=flat-square&logo=book)</sub>
 
 - **Human-In-the-Loop for Bayesian Autonomous Materials Phase Mapping** (2023-06, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2306.10406) <sub>![](https://img.shields.io/badge/arXiv-2023-red?style=flat-square&logo=book)</sub>
+  [[Paper]](https://arxiv.org/abs/2306.10406) <sub>![](https://img.shields.io/badge/arXiv-2023-red?style=flat-square&logo=book)</sub> [[Code]](https://github.com/fadams-umd/CAMEO-HITL)
 
 - **Human-in-the-loop active learning for goal-oriented molecule generation** (2024, *Journal of Cheminformatics*)  
-  [[Paper]](https://doi.org/10.1186/s13321-024-00924-y) <sub>![](https://img.shields.io/badge/J_Cheminformatics-2024-green?style=flat-square&logo=book)</sub>
+  [[Paper]](https://doi.org/10.1186/s13321-024-00924-y) <sub>![](https://img.shields.io/badge/J_Cheminformatics-2024-green?style=flat-square&logo=book)</sub> [[Code]](https://github.com/yasminenahal/hitl-al-gomg)
 
 - **Guided Statistical Workflows with Interactive Explanations and Assumption Checking** (2024-10, *arXiv*)  
   [[Paper]](https://arxiv.org/abs/2410.00365) <sub>![](https://img.shields.io/badge/arXiv-2024-red?style=flat-square&logo=book)</sub>
@@ -155,28 +155,28 @@
 - **IdeaSynth: Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback** (2025-04, *CHI*)  
   [[Paper]](https://dl.acm.org/doi/10.1145/3706598.3714057) <sub>![](https://img.shields.io/badge/CHI-2025-orange?style=flat-square&logo=book)</sub>
 
-- **IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery** (2025-04-23, *arXiv / ACL demo*)  
-  [[Paper]](https://arxiv.org/abs/2504.16728) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub>
+- **IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery** (2025-04, *arXiv / ACL demo*)  
+  [[Paper]](https://arxiv.org/abs/2504.16728) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub> [[Code]](https://github.com/Anikethh/IRIS-Interactive-Research-Ideation-System)
 
-- **PriM: Principle-Inspired Material Discovery through Multi-Agent Collaboration** (2025-04-09, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2504.08810) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub>
+- **PriM: Principle-Inspired Material Discovery through Multi-Agent Collaboration** (2025-04, *arXiv*)  
+  [[Paper]](https://arxiv.org/abs/2504.08810) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub> [[Code]](https://github.com/amair-lab/PriM)
 
-- **AI-Assisted Hypothesis Generation to Address Challenges in Cardiotoxicity Research: Simulation Study Using ChatGPT With GPT-4o** (2025-05-15, *Journal of Medical Internet Research*)  
+- **AI-Assisted Hypothesis Generation to Address Challenges in Cardiotoxicity Research: Simulation Study Using ChatGPT With GPT-4o** (2025-05, *Journal of Medical Internet Research*)  
   [[Paper]](https://www.jmir.org/2025/1/e66161) <sub>![](https://img.shields.io/badge/JMIR-2025-green?style=flat-square&logo=book)</sub>
 
 - **Scientific hypothesis generation by large language models: laboratory validation in breast cancer treatment** (2025-06, *Journal of The Royal Society Interface*)  
   [[Paper]](https://doi.org/10.1098/rsif.2024.0674) <sub>![](https://img.shields.io/badge/JRS_Interface-2025-green?style=flat-square&logo=book)</sub>
 
 - **Hypothesis Generation for Materials Discovery and Design Using Goal-Driven and Constraint-Guided LLM Agents** (2025-01-23, *arXiv / NAACL Findings*)  
-  [[Paper]](https://arxiv.org/abs/2501.13299) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub>
+  [[Paper]](https://arxiv.org/abs/2501.13299) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub> [[Code]](https://github.com/shri071/Hypothesis-Generation-for-Materials-Discovery-and-Design-Using-Goal-Driven-and-Constraint-Guided-LLM)
 
 - **\"The Diagram is like Guardrails\": Structuring GenAI-assisted Hypotheses Exploration with an Interactive Shared Representation** (2025, *Creativity & Cognition / C&C*)  
   [[Paper]](https://doi.org/10.1145/3698061.3726935) <sub>![](https://img.shields.io/badge/C&C-2025-orange?style=flat-square&logo=book)</sub>
 
-- **HypoChainer: A Collaborative System Combining LLMs and Knowledge Graphs for Hypothesis-Driven Scientific Discovery** (2025-07-23, *arXiv*)  
+- **HypoChainer: A Collaborative System Combining LLMs and Knowledge Graphs for Hypothesis-Driven Scientific Discovery** (2025-07, *arXiv*)  
   [[Paper]](https://arxiv.org/abs/2507.17209) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub>
 
-- **PersonaFlow: Designing LLM-Simulated Expert Perspectives for Enhanced Research Ideation** (2025-07-04, *DIS*)  
+- **PersonaFlow: Designing LLM-Simulated Expert Perspectives for Enhanced Research Ideation** (2025-07, *DIS*)  
   [[Paper]](https://dl.acm.org/doi/10.1145/3715336.3735789) <sub>![](https://img.shields.io/badge/DIS-2025-orange?style=flat-square&logo=book)</sub>
 
 
