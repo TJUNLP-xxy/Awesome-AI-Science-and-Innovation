@@ -35,8 +35,6 @@
 ## Idea and Hypothesis Generation
 ### Automation Paradigm
 
-## Idea & Hypothesis Generation
-
 - **DENDRAL: A case study of the first expert system for scientific hypothesis formation** (1993-06, *Artificial Intelligence*)  
   [[Paper]](https://doi.org/10.1016/0004-3702(93)90068-M) <sub>![](https://img.shields.io/badge/Artificial_Intelligence-1993-blue?style=flat-square&logo=book)</sub>
 
@@ -192,9 +190,48 @@
 
 ## Scientific Communication and Presentation
 
+### Automated Scientific Communication and Presentation
+
+### Collaborative-Augmented Scientific Communication and Presentation
+
+
+### Evaluation
+
 ---
 
 ## Integrated Systems for Science and Innovation
+### Fully Automated Scientific Discovery and Innovation Systems (ASDIS)
+
+
+### Human-AI Collaborative Scientific Discovery and Innovation Systems (HACSDIS)
+
+### Evaluation
+
+- **Matbench Discovery--A framework to evaluate machine learning crystal stability predictions** (2023-08, *Nature Machine Intelligence*)  
+  [[Paper]](https://www.nature.com/articles/s42256-025-01055-1) <sub>![](https://img.shields.io/badge/NMI-2023-orange?style=flat-square&logo=book)</sub> [[Code]](https://github.com/janosh/matbench-discovery)
+
+- **LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset** (2024-02, *COLM*)  
+  [[Paper]](https://arxiv.org/abs/2402.09391) <sub>![](https://img.shields.io/badge/COLM-2024-orange?style=flat-square&logo=book)</sub> [[Code]](https://github.com/OSU-NLP-Group/LLM4Chem)
+
+- **A Fine-tuning Dataset and Benchmark for Large Language Models for Protein Understanding** (2024-06, *BIBM*)  
+  [[Paper]](https://ieeexplore.ieee.org/document/10821894) <sub>![](https://img.shields.io/badge/BIBM-2024-orange?style=flat-square&logo=book)</sub> [[Code]](https://github.com/tsynbio/ProteinLMDataset/)
+
+- **MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research** (2025-03, *CVPR*)  
+  [[Paper]](https://arxiv.org/abs/2503.13399) <sub>![](https://img.shields.io/badge/CVPR-2025-orange?style=flat-square&logo=book)</sub> [[Code]](https://github.com/jmhb0/microvqa)
+
+- **EarthSE: A Benchmark for Evaluating Earth Scientific Exploration Capability of LLMs** (2025-05, *arXiv*)  
+  [[Paper]](https://www.nature.com/articles/s42256-025-01055-1) <sub>![](https://img.shields.io/badge/arXiv-2025-orange?style=flat-square&logo=book)</sub> [[Benchmark]](https://huggingface.co/ai-earth)
+
+- **PHYSICS: Benchmarking Foundation Models on University-Level Physics Problem Solving** (2025-03, *ACL*)  
+  [[Paper]](https://arxiv.org/abs/2503.21821) <sub>![](https://img.shields.io/badge/ACL-2025-orange?style=flat-square&logo=book)</sub> [[Code]](https://github.com/yale-nlp/Physics)
+
+- **MLR-Bench: Evaluating AI Agents on Open-Ended Machine Learning Research** (2025-05, *arXiv*)  
+  [[Paper]](https://arxiv.org/abs/2505.19955) <sub>![](https://img.shields.io/badge/arXiv-2025-orange?style=flat-square&logo=book)</sub> [[Code]](https://github.com/chchenhui/mlrbench)
+
+- **LMR-BENCH: Evaluating LLM Agent's Ability on Reproducing Language Modeling Research** (2025-06, *arXiv*)  
+  [[Paper]](https://arxiv.org/abs/2506.17335) <sub>![](https://img.shields.io/badge/arXiv-2025-orange?style=flat-square&logo=book)</sub> [[Code]](https://github.com/du-nlp-lab/LMR-Bench)
+
+
 
 ---
 
