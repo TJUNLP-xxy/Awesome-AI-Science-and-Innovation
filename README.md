@@ -241,23 +241,65 @@
 
 ## Platforms and Toolchains
 
-#Papers#
+### Papers
 
 - **Language agents achieve superhuman synthesis of scientific knowledge** (2024, *arXiv*)
-- [Paper](https://arxiv.org/abs/2409.13740) <sub>![](https://img.shields.io/badge/arXiv-2024-blue?style=flat-square&logo=arxiv)</sub>
+- [[Paper]](https://arxiv.org/abs/2409.13740) <sub>![](https://img.shields.io/badge/arXiv-2024-blue?style=flat-square&logo=arxiv)</sub>
 
 - **scite: A smart citation index that displays the context of citations and classifies their intent using deep learning** (2021, *Quantitative science studies*)
-- [Paper](https://doi.org/10.1162/qss_a_00146) <sub>![](https://img.shields.io/badge/QSS-2021-purple?style=flat-square&logo=book)</sub>
+- [[Paper]](https://doi.org/10.1162/qss_a_00146) <sub>![](https://img.shields.io/badge/QSS-2021-purple?style=flat-square&logo=book)</sub>
 
 - **Snakemake—a scalable bioinformatics workflow engine** (2012, *Bioinformatics*)
-- [Paper](https://doi.org/10.1093/bioinformatics/bts480) <sub>![](https://img.shields.io/badge/Bioinformatics-2012-green?style=flat-square&logo=book)</sub>
+- [[Paper]](https://doi.org/10.1093/bioinformatics/bts480) <sub>![](https://img.shields.io/badge/Bioinformatics-2012-green?style=flat-square&logo=book)</sub>
 
 - **Nextflow enables reproducible computational workflows** (2017, *Nature biotechnology*)
-- [Paper](https://doi.org/10.1038/nbt.3820) <sub>![](https://img.shields.io/badge/Nature%20Biotech-2017-blue?style=flat-square&logo=book)</sub>
+- [[Paper]](https://doi.org/10.1038/nbt.3820) <sub>![](https://img.shields.io/badge/Nature%20Biotech-2017-blue?style=flat-square&logo=book)</sub>
 
-#Websites
+### Websites
 
-**Elicit**	[Website](https://elicit.org)
+### Ⅰ. Knowledge Acquisition & Problem Generation
+
+| [Elicit](https://elicit.com/) | [Perplexity](https://www.perplexity.ai/) | [Consensus](https://consensus.app/) | [Semantic Scholar](https://www.semanticscholar.org/) | [Scite.ai](https://scite.ai/) |
+| :--: | :--: | :--: | :--: | :--: |
+| [ScholarGPS](https://www.scholargps.com/) | [Iris.ai](https://iris.ai/) | [Connected Papers](https://www.connectedpapers.com/) | [Research Rabbit](https://researchrabbit.ai/) | [Litmaps](https://litmaps.com/) |
+| [CiteSpace](https://www.citespace.com/) | [Sci2 Tool](https://sci2tool.org/) | [Zotero](https://www.zotero.org/) | [Mendeley](https://www.mendeley.com/) | [EndNote](https://endnote.com/) |
+| [Obsidian](https://obsidian.md/) | [Roam Research](https://roamresearch.com/) | [NotebookLM](https://notebooklm.google.com) | [ChatPDF](https://www.chatpdf.com/) | [Enago Read](https://read.enago.com/) |
+| [Scholarcy](https://www.scholarcy.com/)  | [PaperQA2](https://github.com/inproxima/paperqa)|| | |
+
+---
+
+### Ⅱ. Idea & Hypothesis Generation
+
+| [ChatGPT](https://chat.openai.com/) | [Claude](https://claude.ai/) | [DeepSeek](https://www.deepseek.com/) | [Elicit](https://elicit.com/) | [ResearchKick](https://www.researchkick.com/) |
+| :--: | :--: | :--: | :--: | :--: |
+| [Obsidian](https://obsidian.md/) | [Roam Research](https://roamresearch.com/) | [Whimsical AI](https://whimsical.com/ai) | [Miro AI](https://miro.com/ai/) | [NotebookLM](https://notebooklm.google.com) |
+| [SciPIP](https://github.com/cheerss/SciPIP) | [Research Flow](https://ponder.ing/) | | | |
+
+---
+
+### Ⅲ. Experiment Design & Execution
+
+| [Protocols.io](https://www.protocols.io/) | [Synthace](https://www.synthace.com/) | [Strateos](https://strateos.com/) | [Weights & Biases](https://wandb.ai) | [LabArchives](https://www.labarchives.com/) |
+| :--: | :--: | :--: | :--: | :--: |
+| [SciNote](https://www.scinote.net/) | [eLabFTW](https://www.elabftw.net/) | [RStudio](https://posit.co) | [Jupyter Notebooks](https://jupyter.org/) | [Google Colab](https://colab.research.google.com/) |
+| [Snakemake](https://snakemake.github.io/) | [Nextflow](https://www.nextflow.io/) | [GraphPad Prism](https://www.graphpad.com) | [SPSS](https://www.ibm.com/spss) | [Stata](https://www.stata.com/) |
+| [Origin](https://www.originlab.com/) | [MATLAB](https://www.mathworks.com/products/matlab.html) | [Open Science](https://osf.io/) | [GitHub](https://github.com/) | [GitLab](https://about.gitlab.com/) |
+| [Zenodo](https://zenodo.org/) | [Figshare](https://figshare.com/) | [Dryad](https://datadryad.org) | [Consensus](https://consensus.app/) | [ScholarGPS](https://www.scholargps.com/) |
+| [Elicit](https://elicit.com/) | [Labster](https://www.labster.com/) | [COMSOL Multiphysics](https://www.comsol.com/comsol-multiphysics) | | |
+
+---
+
+### Ⅳ. Scientific Communication & Presentation
+
+| [Overleaf](https://www.overleaf.com/) | [Microsoft Copilot](https://copilot.microsoft.com/)  | [Vizcom](https://www.vizcom.com) | [ChatGPT](https://chat.openai.com/) | [Claude](https://claude.ai/) |
+| :--: | :--: | :--: | :--: | :--: |
+| [DeepSeek](https://www.deepseek.com/) | [Scispace](https://scispace.com/) | [HyperWrite](https://www.hyperwriteai.com/) | [OmniThink](https://github.com/zjunlp/OmniThink) | [Grammarly](https://www.grammarly.com/) |
+| [DeepL Write](https://www.deepl.com/write) | [Wordtune](https://www.wordtune.com/) | [Quillbot](https://quillbot.com/) | [Writefull](https://writefull.com/) | [Zotero](https://www.zotero.org/) |
+| [Mendeley](https://www.mendeley.com/) | [EndNote](https://endnote.com/) | [Cite This For Me](https://www.citethisforme.com/) | [Matplotlib](https://matplotlib.org/) | [Seaborn](https://seaborn.pydata.org/) |
+| [ggplot2](https://ggplot2.tidyverse.org/) | [GraphPad Prism](https://www.graphpad.com/scientific-software/prism/) | [Origin](https://www.originlab.com/) | [Tableau](https://www.tableau.com/) | [BioRender](https://www.biorender.com/) |
+| [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) | [Inkscape](https://inkscape.org/) | [Connected Papers](https://www.connectedpapers.com/) | [CiteSpace](http://cluster.cis.drexel.edu/~cchen/citespace/) |  |
+| | | | | |
+
 
 
 ## Challenges and Risks
