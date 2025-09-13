@@ -298,8 +298,6 @@
 | [Mendeley](https://www.mendeley.com/) | [EndNote](https://endnote.com/) | [Cite This For Me](https://www.citethisforme.com/) | [Matplotlib](https://matplotlib.org/) | [Seaborn](https://seaborn.pydata.org/) |
 | [ggplot2](https://ggplot2.tidyverse.org/) | [GraphPad Prism](https://www.graphpad.com/scientific-software/prism/) | [Origin](https://www.originlab.com/) | [Tableau](https://www.tableau.com/) | [BioRender](https://www.biorender.com/) |
 | [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) | [Inkscape](https://inkscape.org/) | [Connected Papers](https://www.connectedpapers.com/) | [CiteSpace](http://cluster.cis.drexel.edu/~cchen/citespace/) |  |
-| | | | | |
-
 
 
 ## Challenges and Risks
