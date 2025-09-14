@@ -33,7 +33,7 @@
    [[Paper]](https://arxiv.org/html/2405.09939v1) <sub>![](https://img.shields.io/badge/arXiv-2024.05-red?style=flat-square&logo=arxiv)</sub> [[Code]](https://github.com/MasterAI-EAM/SciQAG)
 
 ## Idea and Hypothesis Generation
-### Automation Paradigm
+### Automated Idea and Hypothesis Generation
 
 - **DENDRAL: A case study of the first expert system for scientific hypothesis formation** (1993-06, *Artificial Intelligence*)  
   [[Paper]](https://doi.org/10.1016/0004-3702(93)90068-M) <sub>![](https://img.shields.io/badge/Artificial_Intelligence-1993-blue?style=flat-square&logo=book)</sub>
@@ -126,7 +126,7 @@
 
 
 
-### Human-AI Collaboration Paradigm
+### Collaborative-Augmented Idea and Hypothesis Generation
 
 
 - **AI/RHEUM. A consultant system for rheumatology** (1983-06, *Journal of Medical Systems*)  
