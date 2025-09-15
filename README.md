@@ -379,6 +379,18 @@
 
 ### Collaborative-Augmented Scientific Communication and Presentation
 
+- **XtraGPT: LLMs for Human-AI Collaboration on Controllable Academic Paper Revision** (2025, *arXiv preprint*)
+  <br>[[Paper]](https://arxiv.org/abs/2505.11336) <sub>![](https://img.shields.io/badge/arXiv-2505.11336-red?style=flat-square&logo=arxiv)</sub>
+
+- **Scholarcopilot: Training large language models for academic writing with accurate citations** (2025, *arXiv preprint*)
+  <br>[[Paper]](https://arxiv.org/abs/2504.00824) <sub>![](https://img.shields.io/badge/arXiv-2504.00824-red?style=flat-square&logo=arxiv)</sub>
+
+- **ConvXAI: Delivering heterogeneous AI explanations via conversations to support human-AI scientific writing** (2023, *Companion publication of the 2023 conference on computer supported cooperative work and social computing*)
+  <br>[[Paper]](https://dl.acm.org/doi/10.1145/3579400.3582103)
+
+- **Sparks: Inspiration for science writing using language models** (2022, *Proceedings of the 2022 ACM Designing Interactive Systems Conference*)
+  <br>[[Paper]](https://dl.acm.org/doi/10.1145/3532106.3533565)
+
 
 ### Evaluation
 
