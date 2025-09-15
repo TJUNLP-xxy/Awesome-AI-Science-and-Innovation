@@ -386,10 +386,10 @@
   <br>[[Paper]](https://arxiv.org/abs/2504.00824) <sub>![](https://img.shields.io/badge/arXiv-2504.00824-red?style=flat-square&logo=arxiv)</sub>
 
 - **ConvXAI: Delivering heterogeneous AI explanations via conversations to support human-AI scientific writing** (2023, *Companion publication of the 2023 conference on computer supported cooperative work and social computing*)
-  <br>[[Paper]](https://dl.acm.org/doi/10.1145/3579400.3582103)
+  <br>[[Paper]](https://arxiv.org/abs/2305.09770) <sub>![](https://img.shields.io/badge/arXiv-2305.09770-red?style=flat-square&logo=arxiv)</sub>
 
 - **Sparks: Inspiration for science writing using language models** (2022, *Proceedings of the 2022 ACM Designing Interactive Systems Conference*)
-  <br>[[Paper]](https://dl.acm.org/doi/10.1145/3532106.3533565)
+  <br>[[Paper]](https://aclanthology.org/2022.in2writing-1.12/)
 
 
 ### Evaluation
