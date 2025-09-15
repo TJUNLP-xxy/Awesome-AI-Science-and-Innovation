@@ -207,8 +207,6 @@
 
 
 
-
-
 ### Collaborative-Augmented Idea and Hypothesis Generation
 
 
@@ -341,7 +339,7 @@
   [[Paper]](https://arxiv.org/abs/2110.11624) <sub>![](https://img.shields.io/badge/arXiv-2110.11624-red?style=flat-square&logo=arxiv)</sub>
 
 - **Multi-LLM Collaborative Caption Generation in Scientific Documents** (2025, *International Workshop on AI for Transportation*)
-  [[Paper]](https://link.springer.com/chapter/10.1007/978-981-97-2036-7_11)
+  [[Paper]](https://link.springer.com/chapter/10.1007/978-981-96-8912-5_6)
 
 - **Infogen: Generating Complex Statistical Infographics from Documents** (2025, *arXiv preprint*)
   [[Paper]](https://arxiv.org/abs/2507.20046) <sub>![](https://img.shields.io/badge/arXiv-2507.20046-red?style=flat-square&logo=arxiv)</sub>
