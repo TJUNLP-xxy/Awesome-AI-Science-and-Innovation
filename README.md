@@ -326,70 +326,70 @@
 ### Automated Scientific Communication and Presentation
 
 - **FigGen: Text to scientific figure generation** (2023, *arXiv preprint*)
-  <br>[[Paper]](https://arxiv.org/abs/2306.00800) <sub>![](https://img.shields.io/badge/arXiv-2306.00800-red?style=flat-square&logo=arxiv)</sub>
+  [[Paper]](https://arxiv.org/abs/2306.00800) <sub>![](https://img.shields.io/badge/arXiv-2306.00800-red?style=flat-square&logo=arxiv)</sub>
 
 - **AutomaTikZ: Text-Guided Synthesis of Scientific Vector Graphics with TikZ** (2024, *The Twelfth International Conference on Learning Representations*)
-  <br>[[Paper]](https://openreview.net/forum?id=v3K5TVP8kZ)
+[[Paper]](https://openreview.net/forum?id=v3K5TVP8kZ)
 
 - **TikZero: Zero-Shot Text-Guided Graphics Program Synthesis** (2025, *arXiv preprint*)
-  <br>[[Paper]](https://arxiv.org/abs/2503.11509) <sub>![](https://img.shields.io/badge/arXiv-2503.11509-red?style=flat-square&logo=arxiv)</sub>
+[[Paper]](https://arxiv.org/abs/2503.11509) <sub>![](https://img.shields.io/badge/arXiv-2503.11509-red?style=flat-square&logo=arxiv)</sub>
 
 - **Starvector: Generating scalable vector graphics code from images and text** (2025, *Proceedings of the Computer Vision and Pattern Recognition Conference*)
 
 - **SciCap: Generating captions for scientific figures** (2021, *arXiv preprint*)
-  <br>[[Paper]](https://arxiv.org/abs/2110.11624) <sub>![](https://img.shields.io/badge/arXiv-2110.11624-red?style=flat-square&logo=arxiv)</sub>
+[[Paper]](https://arxiv.org/abs/2110.11624) <sub>![](https://img.shields.io/badge/arXiv-2110.11624-red?style=flat-square&logo=arxiv)</sub>
 
 - **Multi-LLM Collaborative Caption Generation in Scientific Documents** (2025, *International Workshop on AI for Transportation*)
 
 - **Infogen: Generating Complex Statistical Infographics from Documents** (2025, *arXiv preprint*)
-  <br>[[Paper]](https://arxiv.org/abs/2507.20046) <sub>![](https://img.shields.io/badge/arXiv-2507.20046-red?style=flat-square&logo=arxiv)</sub>
+[[Paper]](https://arxiv.org/abs/2507.20046) <sub>![](https://img.shields.io/badge/arXiv-2507.20046-red?style=flat-square&logo=arxiv)</sub>
 
 - **Arxivdigestables: Synthesizing scientific literature into tables using language models** (2024, *arXiv preprint*)
-  <br>[[Paper]](https://arxiv.org/abs/2410.22360) <sub>![](https://img.shields.io/badge/arXiv-2410.22360-red?style=flat-square&logo=arxiv)</sub>
+[[Paper]](https://arxiv.org/abs/2410.22360) <sub>![](https://img.shields.io/badge/arXiv-2410.22360-red?style=flat-square&logo=arxiv)</sub>
 
 - **Piktochart AI** (*Piktochart*, Accessed: 2025-08-21)
-  <br>[[Website]](https://piktochart.com/ai)
+[[Website]](https://piktochart.com/ai)
 
 - **LitLLMs, LLMs for Literature Review: Are we there yet?** (2024, *arXiv preprint*)
-  <br>[[Paper]](https://arxiv.org/abs/2412.15249) <sub>![](https://img.shields.io/badge/arXiv-2412.15249-red?style=flat-square&logo=arxiv)</sub>
+[[Paper]](https://arxiv.org/abs/2412.15249) <sub>![](https://img.shields.io/badge/arXiv-2412.15249-red?style=flat-square&logo=arxiv)</sub>
 
 - **Openreviewer: A specialized large language model for generating critical scientific paper reviews** (2024, *arXiv preprint*)
-  <br>[[Paper]](https://arxiv.org/abs/2412.11948) <sub>![](https://img.shields.io/badge/arXiv-2412.11948-red?style=flat-square&logo=arxiv)</sub>
+[[Paper]](https://arxiv.org/abs/2412.11948) <sub>![](https://img.shields.io/badge/arXiv-2412.11948-red?style=flat-square&logo=arxiv)</sub>
 
 - **Deepreview: Improving llm-based paper review with human-like deep thinking process** (2025, *arXiv preprint*)
-  <br>[[Paper]](https://arxiv.org/abs/2503.08569) <sub>![](https://img.shields.io/badge/arXiv-2503.08569-red?style=flat-square&logo=arxiv)</sub>
+[[Paper]](https://arxiv.org/abs/2503.08569) <sub>![](https://img.shields.io/badge/arXiv-2503.08569-red?style=flat-square&logo=arxiv)</sub>
 
 - **Agentreview: Exploring peer review dynamics with llm agents** (2024, *arXiv preprint*)
-  <br>[[Paper]](https://arxiv.org/abs/2406.12708) <sub>![](https://img.shields.io/badge/arXiv-2406.12708-red?style=flat-square&logo=arxiv)</sub>
+[[Paper]](https://arxiv.org/abs/2406.12708) <sub>![](https://img.shields.io/badge/arXiv-2406.12708-red?style=flat-square&logo=arxiv)</sub>
 
 - **Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers** (2025, *arXiv preprint*)
-  <br>[[Paper]](https://arxiv.org/abs/2505.21497) <sub>![](https://img.shields.io/badge/arXiv-2505.21497-red?style=flat-square&logo=arxiv)</sub>
+[[Paper]](https://arxiv.org/abs/2505.21497) <sub>![](https://img.shields.io/badge/arXiv-2505.21497-red?style=flat-square&logo=arxiv)</sub>
 
 - **DesignLab: Designing Slides Through Iterative Detection and Correction** (2025, *arXiv preprint*)
-  <br>[[Paper]](https://arxiv.org/abs/2507.17202) <sub>![](https://img.shields.io/badge/arXiv-2507.17202-red?style=flat-square&logo=arxiv)</sub>
+[[Paper]](https://arxiv.org/abs/2507.17202) <sub>![](https://img.shields.io/badge/arXiv-2507.17202-red?style=flat-square&logo=arxiv)</sub>
 
 - **SciGA: A Comprehensive Dataset for Designing Graphical Abstracts in Academic Papers** (2025, *arXiv preprint*)
-  <br>[[Paper]](https://arxiv.org/abs/2507.02212) <sub>![](https://img.shields.io/badge/arXiv-2507.02212-red?style=flat-square&logo=arxiv)</sub>
+  [[Paper]](https://arxiv.org/abs/2507.02212) <sub>![](https://img.shields.io/badge/arXiv-2507.02212-red?style=flat-square&logo=arxiv)</sub>
 
 - **Preacher: Paper-to-Video Agentic System** (2025, *arXiv preprint*)
-  <br>[[Paper]](https://arxiv.org/abs/2508.09632) <sub>![](https://img.shields.io/badge/arXiv-2508.09632-red?style=flat-square&logo=arxiv)</sub>
+  [[Paper]](https://arxiv.org/abs/2508.09632) <sub>![](https://img.shields.io/badge/arXiv-2508.09632-red?style=flat-square&logo=arxiv)</sub>
 
 - **PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent LLMs** (2025, *arXiv preprint*)
-  <br>[[Paper]](https://arxiv.org/abs/2508.17188) <sub>![](https://img.shields.io/badge/arXiv-2508.17188-red?style=flat-square&logo=arxiv)</sub>
+  [[Paper]](https://arxiv.org/abs/2508.17188) <sub>![](https://img.shields.io/badge/arXiv-2508.17188-red?style=flat-square&logo=arxiv)</sub>
 
 ### Collaborative-Augmented Scientific Communication and Presentation
 
 - **XtraGPT: LLMs for Human-AI Collaboration on Controllable Academic Paper Revision** (2025, *arXiv preprint*)
-  <br>[[Paper]](https://arxiv.org/abs/2505.11336) <sub>![](https://img.shields.io/badge/arXiv-2505.11336-red?style=flat-square&logo=arxiv)</sub>
+  [[Paper]](https://arxiv.org/abs/2505.11336) <sub>![](https://img.shields.io/badge/arXiv-2505.11336-red?style=flat-square&logo=arxiv)</sub>
 
 - **Scholarcopilot: Training large language models for academic writing with accurate citations** (2025, *arXiv preprint*)
-  <br>[[Paper]](https://arxiv.org/abs/2504.00824) <sub>![](https://img.shields.io/badge/arXiv-2504.00824-red?style=flat-square&logo=arxiv)</sub>
+  [[Paper]](https://arxiv.org/abs/2504.00824) <sub>![](https://img.shields.io/badge/arXiv-2504.00824-red?style=flat-square&logo=arxiv)</sub>
 
 - **ConvXAI: Delivering heterogeneous AI explanations via conversations to support human-AI scientific writing** (2023, *Companion publication of the 2023 conference on computer supported cooperative work and social computing*)
-  <br>[[Paper]](https://arxiv.org/abs/2305.09770) <sub>![](https://img.shields.io/badge/arXiv-2305.09770-red?style=flat-square&logo=arxiv)</sub>
+  [[Paper]](https://arxiv.org/abs/2305.09770) <sub>![](https://img.shields.io/badge/arXiv-2305.09770-red?style=flat-square&logo=arxiv)</sub>
 
 - **Sparks: Inspiration for science writing using language models** (2022, *Proceedings of the 2022 ACM Designing Interactive Systems Conference*)
-  <br>[[Paper]](https://aclanthology.org/2022.in2writing-1.12/)
+  [[Paper]](https://aclanthology.org/2022.in2writing-1.12/)
 
 
 ### Evaluation
@@ -441,16 +441,16 @@
 ### Papers
 
 - **Language agents achieve superhuman synthesis of scientific knowledge** (2024, *arXiv*)
-- [[Paper]](https://arxiv.org/abs/2409.13740) <sub>![](https://img.shields.io/badge/arXiv-2024-blue?style=flat-square&logo=arxiv)</sub>
+  [[Paper]](https://arxiv.org/abs/2409.13740) <sub>![](https://img.shields.io/badge/arXiv-2024-blue?style=flat-square&logo=arxiv)</sub>
 
 - **scite: A smart citation index that displays the context of citations and classifies their intent using deep learning** (2021, *Quantitative science studies*)
-- [[Paper]](https://doi.org/10.1162/qss_a_00146) <sub>![](https://img.shields.io/badge/QSS-2021-purple?style=flat-square&logo=book)</sub>
+  [[Paper]](https://doi.org/10.1162/qss_a_00146) <sub>![](https://img.shields.io/badge/QSS-2021-purple?style=flat-square&logo=book)</sub>
 
 - **Snakemake—a scalable bioinformatics workflow engine** (2012, *Bioinformatics*)
-- [[Paper]](https://doi.org/10.1093/bioinformatics/bts480) <sub>![](https://img.shields.io/badge/Bioinformatics-2012-green?style=flat-square&logo=book)</sub>
+  [[Paper]](https://doi.org/10.1093/bioinformatics/bts480) <sub>![](https://img.shields.io/badge/Bioinformatics-2012-green?style=flat-square&logo=book)</sub>
 
 - **Nextflow enables reproducible computational workflows** (2017, *Nature biotechnology*)
-- [[Paper]](https://doi.org/10.1038/nbt.3820) <sub>![](https://img.shields.io/badge/Nature%20Biotech-2017-blue?style=flat-square&logo=book)</sub>
+  [[Paper]](https://doi.org/10.1038/nbt.3820) <sub>![](https://img.shields.io/badge/Nature%20Biotech-2017-blue?style=flat-square&logo=book)</sub>
 
 ### Websites
 
