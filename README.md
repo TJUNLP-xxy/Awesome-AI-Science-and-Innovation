@@ -335,38 +335,40 @@
 [[Paper]](https://arxiv.org/abs/2503.11509) <sub>![](https://img.shields.io/badge/arXiv-2503.11509-red?style=flat-square&logo=arxiv)</sub>
 
 - **Starvector: Generating scalable vector graphics code from images and text** (2025, *Proceedings of the Computer Vision and Pattern Recognition Conference*)
+ [[Paper]](https://arxiv.org/abs/2403.16789) <sub>![](https://img.shields.io/badge/arXiv-2403.16789-red?style=flat-square&logo=arxiv)</sub>
 
 - **SciCap: Generating captions for scientific figures** (2021, *arXiv preprint*)
-[[Paper]](https://arxiv.org/abs/2110.11624) <sub>![](https://img.shields.io/badge/arXiv-2110.11624-red?style=flat-square&logo=arxiv)</sub>
+  [[Paper]](https://arxiv.org/abs/2110.11624) <sub>![](https://img.shields.io/badge/arXiv-2110.11624-red?style=flat-square&logo=arxiv)</sub>
 
 - **Multi-LLM Collaborative Caption Generation in Scientific Documents** (2025, *International Workshop on AI for Transportation*)
+  [[Paper]](https://link.springer.com/chapter/10.1007/978-981-97-2036-7_11)
 
 - **Infogen: Generating Complex Statistical Infographics from Documents** (2025, *arXiv preprint*)
-[[Paper]](https://arxiv.org/abs/2507.20046) <sub>![](https://img.shields.io/badge/arXiv-2507.20046-red?style=flat-square&logo=arxiv)</sub>
+  [[Paper]](https://arxiv.org/abs/2507.20046) <sub>![](https://img.shields.io/badge/arXiv-2507.20046-red?style=flat-square&logo=arxiv)</sub>
 
 - **Arxivdigestables: Synthesizing scientific literature into tables using language models** (2024, *arXiv preprint*)
-[[Paper]](https://arxiv.org/abs/2410.22360) <sub>![](https://img.shields.io/badge/arXiv-2410.22360-red?style=flat-square&logo=arxiv)</sub>
+  [[Paper]](https://arxiv.org/abs/2410.22360) <sub>![](https://img.shields.io/badge/arXiv-2410.22360-red?style=flat-square&logo=arxiv)</sub>
 
 - **Piktochart AI** (*Piktochart*, Accessed: 2025-08-21)
-[[Website]](https://piktochart.com/ai)
+  [[Website]](https://piktochart.com/ai)
 
 - **LitLLMs, LLMs for Literature Review: Are we there yet?** (2024, *arXiv preprint*)
-[[Paper]](https://arxiv.org/abs/2412.15249) <sub>![](https://img.shields.io/badge/arXiv-2412.15249-red?style=flat-square&logo=arxiv)</sub>
+  [[Paper]](https://arxiv.org/abs/2412.15249) <sub>![](https://img.shields.io/badge/arXiv-2412.15249-red?style=flat-square&logo=arxiv)</sub>
 
 - **Openreviewer: A specialized large language model for generating critical scientific paper reviews** (2024, *arXiv preprint*)
-[[Paper]](https://arxiv.org/abs/2412.11948) <sub>![](https://img.shields.io/badge/arXiv-2412.11948-red?style=flat-square&logo=arxiv)</sub>
+  [[Paper]](https://arxiv.org/abs/2412.11948) <sub>![](https://img.shields.io/badge/arXiv-2412.11948-red?style=flat-square&logo=arxiv)</sub>
 
 - **Deepreview: Improving llm-based paper review with human-like deep thinking process** (2025, *arXiv preprint*)
-[[Paper]](https://arxiv.org/abs/2503.08569) <sub>![](https://img.shields.io/badge/arXiv-2503.08569-red?style=flat-square&logo=arxiv)</sub>
+  [[Paper]](https://arxiv.org/abs/2503.08569) <sub>![](https://img.shields.io/badge/arXiv-2503.08569-red?style=flat-square&logo=arxiv)</sub>
 
 - **Agentreview: Exploring peer review dynamics with llm agents** (2024, *arXiv preprint*)
-[[Paper]](https://arxiv.org/abs/2406.12708) <sub>![](https://img.shields.io/badge/arXiv-2406.12708-red?style=flat-square&logo=arxiv)</sub>
+  [[Paper]](https://arxiv.org/abs/2406.12708) <sub>![](https://img.shields.io/badge/arXiv-2406.12708-red?style=flat-square&logo=arxiv)</sub>
 
 - **Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers** (2025, *arXiv preprint*)
-[[Paper]](https://arxiv.org/abs/2505.21497) <sub>![](https://img.shields.io/badge/arXiv-2505.21497-red?style=flat-square&logo=arxiv)</sub>
+  [[Paper]](https://arxiv.org/abs/2505.21497) <sub>![](https://img.shields.io/badge/arXiv-2505.21497-red?style=flat-square&logo=arxiv)</sub>
 
 - **DesignLab: Designing Slides Through Iterative Detection and Correction** (2025, *arXiv preprint*)
-[[Paper]](https://arxiv.org/abs/2507.17202) <sub>![](https://img.shields.io/badge/arXiv-2507.17202-red?style=flat-square&logo=arxiv)</sub>
+  [[Paper]](https://arxiv.org/abs/2507.17202) <sub>![](https://img.shields.io/badge/arXiv-2507.17202-red?style=flat-square&logo=arxiv)</sub>
 
 - **SciGA: A Comprehensive Dataset for Designing Graphical Abstracts in Academic Papers** (2025, *arXiv preprint*)
   [[Paper]](https://arxiv.org/abs/2507.02212) <sub>![](https://img.shields.io/badge/arXiv-2507.02212-red?style=flat-square&logo=arxiv)</sub>
