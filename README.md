@@ -29,7 +29,7 @@
 
 ## Knowledge Acquisition and Problem Generation
 
-### Automation Paradigm
+### Automated Knowledge Acquisition and Problem Generation
 
 + **AI and Generative AI for Research Discovery and Summarization** (2024, *Harvard Data Science Review*) 
   [[Paper]](https://hdsr.mitpress.mit.edu/pub/xedo5giw) <sub>![](https://img.shields.io/badge/HDSR-2024-blue?style=flat-square&logo=book)</sub>  
@@ -68,7 +68,7 @@
 - **Learn to Explain: Multimodal Reasoning via Thought Chains for Science QA** (2022, *NeurIPS*) 
   [[Paper]](https://papers.nips.cc/paper_files/paper/2022/hash/47d7a61e69e5773a22d6b7d016350fc8-Abstract-Conference.html) <sub>![](https://img.shields.io/badge/NeurIPS-2022-blue?style=flat-square&logo=book)</sub>  
 
-### Human-AI Collaboration Paradigm
+### Collaborative-Augmented Knowledge Acquisition and Problem Generation
 
 + **AIRUS: a simple workflow for AI-assisted exploration of scientific data** (2025, *bioRxiv*)  
 - **LLM-in-the-loop: Leveraging Large Language Model for Thematic Analysis** (2023, *arXiv preprint*) 
@@ -266,7 +266,7 @@
 
 ## Experiment Design and Execution
 
-### Automation Paradigm
+### Automated Experiment Design and Execution
 
 + **AutoSciLab: A Self-Driving Laboratory For Interpretable Scientific Discovery** (2025, *AAAI Conference on Artificial Intelligence*)  
 - **AutoOED: Automated Optimal Experiment Design Platform** (2021, *arXiv preprint*) 
@@ -294,7 +294,7 @@
 
 - **Nextflow enables reproducible computational workflows** (2017, *Nature Biotechnology*)  
 
-### Human-AI Collaboration Paradigm
+### Collaborative-Augmented Experiment Design and Execution
 
 + **Building workflows for an interactive human-in-the-loop automated experiment (hAE) in STEM-EELS** (2025, *Digital Discovery*)  
 - **BO-Muse: A human expert and AI teaming framework for accelerated experimental design** (2023, *arXiv preprint*) 
