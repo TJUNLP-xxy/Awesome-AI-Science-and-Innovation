@@ -14,12 +14,11 @@
 
 ## Table of Contents
 
-- [Knowledge Acquisition and Problem Generation](#knowledge-acquisition-and-problem-generation)  
+- [Knowledge Acquisition and Problem Formulation](#knowledge-acquisition-and-problem-generation)  
 - [Idea and Hypothesis Generation](#idea-and-hypothesis-generation)  
 - [Experiment Design and Execution](#experiment-design-and-execution)  
 - [Scientific Communication and Presentation](#scientific-communication-and-presentation)  
 - [Integrated Systems for Science and Innovation](#integrated-systems-for-science-and-innovation)  
-- [Domain Innovations](#domain-innovations)  
 - [Platforms and Toolchains](#platforms-and-toolchains)  
 - [Challenges and Risks](#challenges-and-risks)  
 - [Contributing](#contributing)  
@@ -430,11 +429,6 @@
 
 
 
----
-
-## Domain Innovations
-
----
 
 ## Platforms and Toolchains
 
