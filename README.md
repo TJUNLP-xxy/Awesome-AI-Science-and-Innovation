@@ -398,7 +398,7 @@
 ## Integrated Systems for Science and Innovation
 ### Fully Automated Scientific Discovery and Innovation Systems (ASDIS)
 - **An autonomous laboratory for the accelerated synthesis of novel materials** (2023, *Nature Communications*)
-  [[Paper]](https://www.nature.com/articles/s41586-023-06734-w) <sub>![](https://img.shields.io/badge/arXiv-2408.06292-red?style=flat-square&logo=arxiv)</sub>
+  [[Paper]](https://www.nature.com/articles/s41586-023-06734-w) <sub>![](https://img.shields.io/badge/Nature_Communications-2023-darkgreen?style=flat-square&logo=book)</sub>
 
 - **CREW: Facilitating Human-AI Teaming Research** (2024, *arXiv preprint*)
   [[Paper]](https://arxiv.org/abs/2408.00170) <sub>![](https://img.shields.io/badge/arXiv-2408.00170-red?style=flat-square&logo=arxiv)</sub>
@@ -407,10 +407,10 @@
   [[Paper]](https://arxiv.org/abs/2408.06292) <sub>![](https://img.shields.io/badge/arXiv-2408.06292-red?style=flat-square&logo=arxiv)</sub>
 
 - **Autonomous closed-loop mechanistic investigation of molecular electrochemistry via automation** (2024, *Nature Communications*)
-  [[Paper]](https://www.nature.com/articles/s41467-024-47210-x) <sub>![](https://img.shields.io/badge/arXiv-2408.06292-red?style=flat-square&logo=arxiv)</sub>
+  [[Paper]](https://www.nature.com/articles/s41467-024-47210-x) <sub>![](https://img.shields.io/badge/Nature_Communications-2024-darkgreen?style=flat-square&logo=book)</sub>
 
 - **An automatic end-to-end chemical synthesis development platform powered by large language models** (2024, *Nature Communications*)
-  [[Paper]](https://www.nature.com/articles/s41467-024-54457-x) <sub>![](https://img.shields.io/badge/arXiv-2408.06292-red?style=flat-square&logo=arxiv)</sub>
+  [[Paper]](https://www.nature.com/articles/s41467-024-54457-x) <sub>![](https://img.shields.io/badge/Nature_Communications-2024-darkgreen?style=flat-square&logo=book)</sub>
 
 - **Dolphin: Moving Towards Closed-loop Auto-research through Thinking, Practice, and Feedback** (2025, *bioRxiv preprint*)
   [[Paper]](https://www.biorxiv.org/content/10.1101/2025.03.06.641840v1) <sub>![](https://img.shields.io/badge/bioRxiv-2025.03.06.641840-green?style=flat-square&logo=bioRxiv)</sub>
