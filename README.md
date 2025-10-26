@@ -532,6 +532,86 @@
 
 
 ## Challenges and Risks
+### Ethics and Safety
+
+- **How Far Are AI Scientists from Changing the World?** (2025, *arXiv preprint*)  
+  [[Paper]](https://arxiv.org/abs/2507.23276) <sub>![](https://img.shields.io/badge/arXiv-2507.23276-red?style=flat-square&logo=arxiv)</sub>
+
+- **Mapping the ethics of generative AI: A comprehensive scoping review** (2024, *Minds and Machines*)  
+  [[Paper]](https://doi.org/10.1007/s11023-024-09679-z) <sub>![](https://img.shields.io/badge/Minds_and_Machines-2024-blue?style=flat-square&logo=book)</sub>
+
+- **International scientific report on the safety of advanced AI (interim report)** (2024, *arXiv preprint*)  
+  [[Paper]](https://arxiv.org/abs/2412.05282) <sub>![](https://img.shields.io/badge/arXiv-2412.05282-red?style=flat-square&logo=arxiv)</sub>
+
+- **AI-generated literature reviews threaten scientific progress** (2025, *Nature*)  
+  [[Paper]](https://doi.org/10.1038/d41586-025-00113-w) <sub>![](https://img.shields.io/badge/Nature-2025-darkgreen?style=flat-square&logo=book)</sub>
+
+- **Hallucination detection in foundation models for decision-making: A flexible definition and review of the state of the art** (2025, *ACM Computing Surveys*)  
+  [[Paper]](https://doi.org/10.1145/3708498) <sub>![](https://img.shields.io/badge/ACM_CSUR-2025-blue?style=flat-square&logo=book)</sub>
+
+- **Beyond principlism: practical strategies for ethical AI use in research practices** (2025, *AI and Ethics*)  
+  [[Paper]](https://doi.org/10.1007/s43681-024-00493-8) <sub>![](https://img.shields.io/badge/AI_and_Ethics-2025-green?style=flat-square&logo=book)</sub>
+
+---
+
+### Foundation Model Limitations
+
+- **Foundation models and intelligent decision-making: Progress, challenges, and perspectives** (2025, *The Innovation*)  
+  [[Paper]](https://doi.org/10.1016/j.xinn.2025.100779) <sub>![](https://img.shields.io/badge/The_Innovation-2025-green?style=flat-square&logo=book)</sub>
+
+
+- **ScienceMeter: Tracking Scientific Knowledge Updates in Language Models** (2025, *arXiv preprint*)  
+  [[Paper]](https://arxiv.org/abs/2505.24302) <sub>![](https://img.shields.io/badge/arXiv-2505.24302-red?style=flat-square&logo=arxiv)</sub>
+
+- **On the evolution of knowledge graphs: A survey and perspective** (2023, *arXiv preprint*)  
+  [[Paper]](https://arxiv.org/abs/2310.04835) <sub>![](https://img.shields.io/badge/arXiv-2310.04835-red?style=flat-square&logo=arxiv)</sub>
+
+
+- **LLM Cannot Discover Causality, and Should Be Restricted to Non-Decisional Support in Causal Discovery** (2025, *arXiv preprint*)  
+  [[Paper]](https://arxiv.org/abs/2506.00844) <sub>![](https://img.shields.io/badge/arXiv-2506.00844-red?style=flat-square&logo=arxiv)</sub>
+
+- **Causal Reasoning in Pieces: Modular In-Context Learning for Causal Discovery** (2025, *arXiv preprint*)  
+  [[Paper]](https://arxiv.org/abs/2507.23488) <sub>![](https://img.shields.io/badge/arXiv-2507.23488-red?style=flat-square&logo=arxiv)</sub>
+
+- **Languages are still a major barrier to global science** (2016, *PLoS Biology*)  
+  [[Paper]](https://doi.org/10.1371/journal.pbio.2000933) <sub>![](https://img.shields.io/badge/PLoS_Biology-2016-green?style=flat-square&logo=book)</sub>
+
+- **A survey on large language models with multilingualism: Recent advances and new frontiers** (2024, *arXiv preprint*)  
+  [[Paper]](https://arxiv.org/abs/2405.10936) <sub>![](https://img.shields.io/badge/arXiv-2405.10936-red?style=flat-square&logo=arxiv)</sub>
+
+- **Multilingual large language models and curse of multilinguality** (2024, *arXiv preprint*)  
+  [[Paper]](https://arxiv.org/abs/2406.10602) <sub>![](https://img.shields.io/badge/arXiv-2406.10602-red?style=flat-square&logo=arxiv)</sub>
+
+- **Multimodal foundation models: From specialists to general-purpose assistants** (2024, *Foundations and Trends in Computer Graphics and Vision*)  
+  [[Paper]](https://doi.org/10.1561/0600000127) <sub>![](https://img.shields.io/badge/FTCGV-2024-green?style=flat-square&logo=book)</sub>
+
+- **Hemm: Holistic evaluation of multimodal foundation models** (2024, *NeurIPS*)  
+  [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5a5a32d9c1e1b6f1f3a6e9f3f7e8e5a8-Abstract.html) <sub>![](https://img.shields.io/badge/NeurIPS-2024-blue?style=flat-square&logo=book)</sub>
+
+- **Diagnosing and Mitigating Modality Interference in Multimodal Large Language Models** (2025, *arXiv preprint*)  
+  [[Paper]](https://arxiv.org/abs/2505.19616) <sub>![](https://img.shields.io/badge/arXiv-2505.19616-red?style=flat-square&logo=arxiv)</sub>
+
+---
+
+## Emergent Risks
+
+- **Mathematical discoveries from program search with large language models** (2024, *Nature*)  
+  [[Paper]](https://doi.org/10.1038/s41586-023-06924-6) <sub>![](https://img.shields.io/badge/Nature-2024-darkgreen?style=flat-square&logo=book)</sub>
+
+- **AlphaEvolve: A coding agent for scientific and algorithmic discovery** (2025, *arXiv preprint*)  
+  [[Paper]](https://arxiv.org/abs/2506.13131) <sub>![](https://img.shields.io/badge/arXiv-2506.13131-red?style=flat-square&logo=arxiv)</sub>
+
+- **Towards scientific discovery with generative ai: Progress, opportunities, and challenges** (2025, *AAAI*)  
+  [[Paper]](https://doi.org/10.1609/aaai.v39i27.32363) <sub>![](https://img.shields.io/badge/AAAI-2025-blue?style=flat-square&logo=book)</sub>
+
+- **Multi-agent risks from advanced ai** (2025, *arXiv preprint*)  
+  [[Paper]](https://arxiv.org/abs/2502.14143) <sub>![](https://img.shields.io/badge/arXiv-2502.14143-red?style=flat-square&logo=arxiv)</sub>
+
+- **Human-AI collaboration is not very collaborative yet: a taxonomy of interaction patterns in AI-assisted decision making from a systematic review** (2025, *Frontiers in Computer Science*)  
+  [[Paper]](https://doi.org/10.3389/fcomp.2024.1521066) <sub>![](https://img.shields.io/badge/Frontiers_CS-2025-green?style=flat-square&logo=book)</sub>
+
+- **A systematic review of federated learning: Challenges, aggregation methods, and development tools** (2023, *Journal of Network and Computer Applications*)  
+  [[Paper]](https://doi.org/10.1016/j.jnca.2023.103714) <sub>![](https://img.shields.io/badge/JNCA-2023-blue?style=flat-square&logo=book)</sub>
 
 ---
 
