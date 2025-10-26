@@ -441,10 +441,28 @@
 
 ### Human-AI Collaborative Scientific Discovery and Innovation Systems (HACSDIS)
 
+- **A GPT-4 Reticular Chemist for Guiding MOF Discovery** (2023, *arXiv preprint*)
+  [[Paper]](https://arxiv.org/abs/2306.14915) <sub>![](https://img.shields.io/badge/arXiv-2306.14915-red?style=flat-square&logo=arxiv)</sub>
+
+
+- **VISION: A Modular AI Assistant for Natural Human-Instrument Interaction at Scientific User Facilities** (2024, *arXiv preprint*)
+  [[Paper]](https://arxiv.org/abs/2412.18161) <sub>![](https://img.shields.io/badge/arXiv-2412.18161-red?style=flat-square&logo=arxiv)</sub>
+
+
+- **Agent Laboratory: Using LLM Agents as Research Assistants** (2025, *arXiv preprint*)
+  [[Paper]](https://arxiv.org/abs/2501.04227) <sub>![](https://img.shields.io/badge/arXiv-2501.04227-red?style=flat-square&logo=arxiv)</sub>
+
+- **Towards an AI co-scientist** (2025, *arXiv preprint*)
+  [[Paper]](https://arxiv.org/abs/2502.18864) <sub>![](https://img.shields.io/badge/arXiv-2502.18864-red?style=flat-square&logo=arxiv)</sub>
+
+- **Interaction as Intelligence: Deep Research With Human-AI Partnership** (2025, *arXiv preprint*)
+  [[Paper]](https://arxiv.org/abs/2507.15759) <sub>![](https://img.shields.io/badge/arXiv-2507.15759-red?style=flat-square&logo=arxiv)</sub>
+
+
 ### Evaluation
 
 - **Matbench Discovery--A framework to evaluate machine learning crystal stability predictions** (2024-08, *Nature Machine Intelligence*)  
-  [[Paper]](https://arxiv.org/abs/2408.06292) <sub>![](https://img.shields.io/badge/arXiv-2305.09770-red?style=flat-square&logo=arxiv)</sub> [[Code]](https://github.com/SakanaAI/AI-Scientist)
+  [[Paper]](https://arxiv.org/abs/2408.06292) <sub>![](https://img.shields.io/badge/Nature_Machine_Intelligence-2024-darkgreen?style=flat-square&logo=book)</sub> [[Code]](https://github.com/SakanaAI/AI-Scientist)
 
 - **LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset** (2024-02, *COLM*)  
   [[Paper]](https://arxiv.org/abs/2402.09391) <sub>![](https://img.shields.io/badge/COLM-2024-orange?style=flat-square&logo=book)</sub> [[Code]](https://github.com/OSU-NLP-Group/LLM4Chem)
@@ -456,16 +474,16 @@
   [[Paper]](https://arxiv.org/abs/2503.13399) <sub>![](https://img.shields.io/badge/CVPR-2025-orange?style=flat-square&logo=book)</sub> [[Code]](https://github.com/jmhb0/microvqa)
 
 - **EarthSE: A Benchmark for Evaluating Earth Scientific Exploration Capability of LLMs** (2025-05, *arXiv*)  
-  [[Paper]](https://www.nature.com/articles/s42256-025-01055-1) <sub>![](https://img.shields.io/badge/arXiv-2025-orange?style=flat-square&logo=book)</sub> [[Benchmark]](https://huggingface.co/ai-earth)
+  [[Paper]](https://arxiv.org/abs/2505.17139) <sub>![](https://img.shields.io/badge/arXiv-2505.17139-red?style=flat-square&logo=arxiv)</sub> [[Benchmark]](https://huggingface.co/ai-earth)
 
 - **PHYSICS: Benchmarking Foundation Models on University-Level Physics Problem Solving** (2025-03, *ACL*)  
   [[Paper]](https://arxiv.org/abs/2503.21821) <sub>![](https://img.shields.io/badge/ACL-2025-orange?style=flat-square&logo=book)</sub> [[Code]](https://github.com/yale-nlp/Physics)
 
 - **MLR-Bench: Evaluating AI Agents on Open-Ended Machine Learning Research** (2025-05, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2505.19955) <sub>![](https://img.shields.io/badge/arXiv-2025-orange?style=flat-square&logo=book)</sub> [[Code]](https://github.com/chchenhui/mlrbench)
+  [[Paper]](https://arxiv.org/abs/2505.19955) <sub>![](https://img.shields.io/badge/arXiv-2505.19955-red?style=flat-square&logo=arxiv)</sub> [[Code]](https://github.com/chchenhui/mlrbench)
 
 - **LMR-BENCH: Evaluating LLM Agent's Ability on Reproducing Language Modeling Research** (2025-06, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2506.17335) <sub>![](https://img.shields.io/badge/arXiv-2025-orange?style=flat-square&logo=book)</sub> [[Code]](https://github.com/du-nlp-lab/LMR-Bench)
+  [[Paper]](https://arxiv.org/abs/2506.17335) <sub>![](https://img.shields.io/badge/arXiv-2506.17335-red?style=flat-square&logo=arxiv)</sub> [[Code]](https://github.com/du-nlp-lab/LMR-Bench)
 
 
 
