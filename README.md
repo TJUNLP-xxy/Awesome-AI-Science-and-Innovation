@@ -397,14 +397,54 @@
 
 ## Integrated Systems for Science and Innovation
 ### Fully Automated Scientific Discovery and Innovation Systems (ASDIS)
+- **An autonomous laboratory for the accelerated synthesis of novel materials** (2023, *Nature Communications*)
+  [[Paper]](https://www.nature.com/articles/s41586-023-06734-w) <sub>![](https://img.shields.io/badge/arXiv-2408.06292-red?style=flat-square&logo=arxiv)</sub>
 
+- **CREW: Facilitating Human-AI Teaming Research** (2024, *arXiv preprint*)
+  [[Paper]](https://arxiv.org/abs/2408.00170) <sub>![](https://img.shields.io/badge/arXiv-2408.00170-red?style=flat-square&logo=arxiv)</sub>
+
+- **The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery** (2024, *arXiv preprint*)
+  [[Paper]](https://arxiv.org/abs/2408.06292) <sub>![](https://img.shields.io/badge/arXiv-2408.06292-red?style=flat-square&logo=arxiv)</sub>
+
+- **Autonomous closed-loop mechanistic investigation of molecular electrochemistry via automation** (2024, *Nature Communications*)
+  [[Paper]](https://www.nature.com/articles/s41467-024-47210-x) <sub>![](https://img.shields.io/badge/arXiv-2408.06292-red?style=flat-square&logo=arxiv)</sub>
+
+- **An automatic end-to-end chemical synthesis development platform powered by large language models** (2024, *Nature Communications*)
+  [[Paper]](https://www.nature.com/articles/s41467-024-54457-x) <sub>![](https://img.shields.io/badge/arXiv-2408.06292-red?style=flat-square&logo=arxiv)</sub>
+
+- **Dolphin: Moving Towards Closed-loop Auto-research through Thinking, Practice, and Feedback** (2025, *bioRxiv preprint*)
+  [[Paper]](https://www.biorxiv.org/content/10.1101/2025.03.06.641840v1) <sub>![](https://img.shields.io/badge/bioRxiv-2025.03.06.641840-green?style=flat-square&logo=bioRxiv)</sub>
+
+- **DORA AI Scientist: Multi-agent Virtual Research Team for Scientific Exploration Discovery and Automated Report Generation** (2025, *arXiv preprint*)
+  [[Paper]](https://arxiv.org/abs/2508.15763) <sub>![](https://img.shields.io/badge/arXiv-2508.15763-red?style=flat-square&logo=arxiv)</sub>
+
+- **The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search** (2025, *arXiv preprint*)
+  [[Paper]](https://arxiv.org/abs/2504.08066) <sub>![](https://img.shields.io/badge/arXiv-2504.08066-red?style=flat-square&logo=arxiv)</sub>
+
+- **scAgent: Universal Single-Cell Annotation via a LLM Agent** (2025, *arXiv preprint*)
+  [[Paper]](https://arxiv.org/abs/2504.04698) <sub>![](https://img.shields.io/badge/arXiv-2504.04698-red?style=flat-square&logo=arxiv)</sub>
+
+- **InternAgent: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification** (2025, *arXiv preprint*)
+  [[Paper]](https://arxiv.org/abs/2505.16938) <sub>![](https://img.shields.io/badge/arXiv-2505.16938-red?style=flat-square&logo=arxiv)</sub>
+
+- **PiFlow: Principle-aware Scientific Discovery with Multi-Agent Collaboration** (2025, *arXiv preprint*)
+  [[Paper]](https://arxiv.org/abs/2505.15047) <sub>![](https://img.shields.io/badge/arXiv-2505.15047-red?style=flat-square&logo=arxiv)</sub>
+
+- **THE-Tree: Can Tracing Historical Evolution Enhance Scientific Verification and Reasoning?** (2025, *arXiv preprint*)
+  [[Paper]](https://arxiv.org/abs/2506.21763) <sub>![](https://img.shields.io/badge/arXiv-2506.21763-red?style=flat-square&logo=arxiv)</sub>
+
+- **Open-ended Scientific Discovery via Bayesian Surprise** (2025, *arXiv preprint*)
+  [[Paper]](https://arxiv.org/abs/2507.00310) <sub>![](https://img.shields.io/badge/arXiv-2507.00310-red?style=flat-square&logo=arxiv)</sub>
+
+- **Intern-S1: A Scientific Multimodal Foundation Model** (2025, *arXiv preprint*)
+  [[Paper]](https://arxiv.org/abs/2508.15763) <sub>![](https://img.shields.io/badge/arXiv-2508.15763-red?style=flat-square&logo=arxiv)</sub>
 
 ### Human-AI Collaborative Scientific Discovery and Innovation Systems (HACSDIS)
 
 ### Evaluation
 
-- **Matbench Discovery--A framework to evaluate machine learning crystal stability predictions** (2023-08, *Nature Machine Intelligence*)  
-  [[Paper]](https://www.nature.com/articles/s42256-025-01055-1) <sub>![](https://img.shields.io/badge/NMI-2023-orange?style=flat-square&logo=book)</sub> [[Code]](https://github.com/janosh/matbench-discovery)
+- **Matbench Discovery--A framework to evaluate machine learning crystal stability predictions** (2024-08, *Nature Machine Intelligence*)  
+  [[Paper]](https://arxiv.org/abs/2408.06292) <sub>![](https://img.shields.io/badge/arXiv-2305.09770-red?style=flat-square&logo=arxiv)</sub> [[Code]](https://github.com/SakanaAI/AI-Scientist)
 
 - **LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset** (2024-02, *COLM*)  
   [[Paper]](https://arxiv.org/abs/2402.09391) <sub>![](https://img.shields.io/badge/COLM-2024-orange?style=flat-square&logo=book)</sub> [[Code]](https://github.com/OSU-NLP-Group/LLM4Chem)
