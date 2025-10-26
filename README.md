@@ -376,6 +376,13 @@
 - **PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent LLMs** (2025, *arXiv preprint*)
   [[Paper]](https://arxiv.org/abs/2508.17188) <sub>![](https://img.shields.io/badge/arXiv-2508.17188-red?style=flat-square&logo=arxiv)</sub>
 
+- **Presenting a Paper is an Art: Self-Improvement Aesthetic Agents for Academic Presentations** (2025, *arXiv preprint*)
+  [[Paper]](https://arxiv.org/abs/2510.05571) <sub>![](https://img.shields.io/badge/arXiv-2510.05571-red?style=flat-square&logo=arxiv)</sub>
+
+- **Paper2Video: Automatic Video Generation from Scientific Papers** (2025, *arXiv preprint*)
+  [[Paper]](https://arxiv.org/abs/2510.05096) <sub>![](https://img.shields.io/badge/arXiv-2510.05096-red?style=flat-square&logo=arxiv)</sub>
+
+
 ### Collaborative-Augmented Scientific Communication and Presentation
 
 - **XtraGPT: LLMs for Human-AI Collaboration on Controllable Academic Paper Revision** (2025, *arXiv preprint*)
@@ -391,7 +398,7 @@
   [[Paper]](https://aclanthology.org/2022.in2writing-1.12/)
 
 
-### Evaluation
+<!-- ### Evaluation -->
 
 ---
 
