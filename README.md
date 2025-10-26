@@ -473,19 +473,30 @@
 - **MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research** (2025-03, *CVPR*)  
   [[Paper]](https://arxiv.org/abs/2503.13399) <sub>![](https://img.shields.io/badge/CVPR-2025-orange?style=flat-square&logo=book)</sub> [[Code]](https://github.com/jmhb0/microvqa)
 
-- **EarthSE: A Benchmark for Evaluating Earth Scientific Exploration Capability of LLMs** (2025-05, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2505.17139) <sub>![](https://img.shields.io/badge/arXiv-2505.17139-red?style=flat-square&logo=arxiv)</sub> [[Benchmark]](https://huggingface.co/ai-earth)
+- **XLRS-Bench: Could Your Multimodal LLMs Understand Extremely Large Ultra-High-Resolution Remote Sensing Imagery?** (2025-03, *arXiv*)  
+  [[Paper]](https://arxiv.org/abs/2503.23771) <sub>![](https://img.shields.io/badge/arXiv-2503.23771-red?style=flat-square&logo=arxiv)</sub>
+  
 
 - **PHYSICS: Benchmarking Foundation Models on University-Level Physics Problem Solving** (2025-03, *ACL*)  
   [[Paper]](https://arxiv.org/abs/2503.21821) <sub>![](https://img.shields.io/badge/ACL-2025-orange?style=flat-square&logo=book)</sub> [[Code]](https://github.com/yale-nlp/Physics)
 
+- **EarthSE: A Benchmark for Evaluating Earth Scientific Exploration Capability of LLMs** (2025-05, *arXiv*)  
+  [[Paper]](https://arxiv.org/abs/2505.17139) <sub>![](https://img.shields.io/badge/arXiv-2505.17139-red?style=flat-square&logo=arxiv)</sub> [[Benchmark]](https://huggingface.co/ai-earth)
+
 - **MLR-Bench: Evaluating AI Agents on Open-Ended Machine Learning Research** (2025-05, *arXiv*)  
   [[Paper]](https://arxiv.org/abs/2505.19955) <sub>![](https://img.shields.io/badge/arXiv-2505.19955-red?style=flat-square&logo=arxiv)</sub> [[Code]](https://github.com/chchenhui/mlrbench)
 
-- **LMR-BENCH: Evaluating LLM Agent's Ability on Reproducing Language Modeling Research** (2025-06, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2506.17335) <sub>![](https://img.shields.io/badge/arXiv-2506.17335-red?style=flat-square&logo=arxiv)</sub> [[Code]](https://github.com/du-nlp-lab/LMR-Bench)
+- **MSEarth: A Multimodal Scientific Dataset and Benchmark for Phenomena Uncovering in Earth Science** (2025-05, *arXiv*)  
+  [[Paper]](https://arxiv.org/abs/2505.20740) <sub>![](https://img.shields.io/badge/arXiv-2505.20740-red?style=flat-square&logo=arxiv)</sub>
 
+- **AstroVisBench: A Code Benchmark for Scientific Computing and Visualization in Astronomy** (2025-05, *arXiv*)  
+  [[Paper]](https://arxiv.org/abs/2505.20538) <sub>![](https://img.shields.io/badge/arXiv-2505.20538-red?style=flat-square&logo=arxiv)</sub>
+  
+- **RExBench: Can coding agents autonomously implement AI research extensions?** (2025-06, *arXiv*)  
+  [[Paper]](https://arxiv.org/abs/2506.22598) <sub>![](https://img.shields.io/badge/arXiv-2506.22598-red?style=flat-square&logo=arxiv)</sub> 
 
+- **SciArena: An Open Evaluation Platform for Foundation Models in Scientific Literature Tasks** (2025-07, *arXiv*)  
+  [[Paper]](https://arxiv.org/abs/2507.01001) <sub>![](https://img.shields.io/badge/arXiv-2507.01001-red?style=flat-square&logo=arxiv)</sub> 
 
 
 ## Platforms and Toolchains
