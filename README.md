@@ -28,45 +28,6 @@
 
 ## Knowledge Acquisition and Problem Generation
 
-### Automated Knowledge Acquisition and Problem Generation
-
-+ **AI and Generative AI for Research Discovery and Summarization** (2024, *Harvard Data Science Review*) 
-  [[Paper]](https://hdsr.mitpress.mit.edu/pub/xedo5giw) <sub>![](https://img.shields.io/badge/HDSR-2024-blue?style=flat-square&logo=book)</sub>  
-- **SciBERT: A Pretrained Language Model for Scientific Text** (2019, *EMNLP-IJCNLP*) 
-  [[Paper]](https://aclanthology.org/D19-1371/) <sub>![](https://img.shields.io/badge/EMNLP_IJCNLP-2019-blue?style=flat-square&logo=acl)</sub> [[Code]](https://github.com/allenai/scibert)
-- **Surveyx: Academic Survey Automation via Large Language Models** (2025, *arXiv preprint*) 
-  [[Paper]](https://arxiv.org/abs/2502.14776) <sub>![](https://img.shields.io/badge/arXiv-2502.14776-red?style=flat-square&logo=arxiv)</sub>  
-- **SciQAG: A Framework for Auto-Generated Science Question Answering Dataset with Fine-grained Evaluation** (2024, *arXiv preprint*) 
-  [[Paper]](https://arxiv.org/abs/2405.09939) <sub>![](https://img.shields.io/badge/arXiv-2405.09939-red?style=flat-square&logo=arxiv)</sub>  
-- **Automating Research Synthesis with Domain-Specific Large Language Model Fine-Tuning** (2025, *ACM TKDD*) 
-  [[Paper]](http://dx.doi.org/10.1145/3715964) <sub>![](https://img.shields.io/badge/TKDD-2025-blue?style=flat-square&logo=acm)</sub>  
-- **ResearchAgent: Iterative Research Idea Generation over Scientific Literature with LLMs** (2024, *arXiv preprint*) 
-  [[Paper]](https://arxiv.org/abs/2404.07738) <sub>![](https://img.shields.io/badge/arXiv-2404.07738-red?style=flat-square&logo=arxiv)</sub>  
-- **An Accurate and Efficient Approach to Knowledge Extraction from Scientific Publications using Structured Ontology Models, Graph Neural Networks, and LLMs** (2024, *IJMS*) 
-  [[Paper]](https://doi.org/10.3390/ijms252111811) <sub>![](https://img.shields.io/badge/IJMS-2024-green?style=flat-square&logo=book)</sub>  
-- **Automated Literature Research and Review-Generation Method Based on LLMs** (2025, *National Science Review*) 
-  [[Paper]](https://doi.org/10.1093/nsr/nwaf169) <sub>![](https://img.shields.io/badge/NSR-2025-green?style=flat-square&logo=book)</sub>  
-- **The SciQA Scientific Question Answering Benchmark for Scholarly Knowledge** (2023, *Scientific Reports*) 
-  [[Paper]](https://doi.org/10.1038/s41598-023-34523-0) <sub>![](https://img.shields.io/badge/SciRep-2023-green?style=flat-square&logo=book)</sub>  
-- **BIGPATENT: A Large-Scale Dataset for Abstractive and Coherent Summarization** (2019, *arXiv preprint*) 
-  [[Paper]](https://arxiv.org/abs/1906.03741) <sub>![](https://img.shields.io/badge/arXiv-1906.03741-red?style=flat-square&logo=arxiv)</sub>  
-- **TLDR: Extreme Summarization of Scientific Documents** (2020, *arXiv preprint*) 
-  [[Paper]](https://arxiv.org/abs/2004.15011) <sub>![](https://img.shields.io/badge/arXiv-2004.15011-red?style=flat-square&logo=arxiv)</sub>  
-- **Structured Information Extraction from Complex Scientific Text with Fine-Tuned LLMs** (2022, *arXiv preprint*) 
-  [[Paper]](https://arxiv.org/abs/2212.05238) <sub>![](https://img.shields.io/badge/arXiv-2212.05238-red?style=flat-square&logo=arxiv)</sub>  
-- **LitLLM: A Toolkit for Scientific Literature Review** (2024, *arXiv preprint*) 
-  [[Paper]](https://arxiv.org/abs/2402.01788) <sub>![](https://img.shields.io/badge/arXiv-2402.01788-red?style=flat-square&logo=arxiv)</sub>  
-- **PubTator Central: Automated Concept Annotation for Biomedical Full Text Articles** (2019, *Nucleic Acids Research*) 
-  [[Paper]](https://doi.org/10.1093/nar/gkz389) <sub>![](https://img.shields.io/badge/NAR-2019-green?style=flat-square&logo=book)</sub>  
-- **Improving Access to Scientific Literature with Knowledge Graphs** (2020, *Bibliothek Forschung und Praxis*) 
-  [[Paper]](https://doi.org/10.1515/bfp-2020-0046) <sub>![](https://img.shields.io/badge/BFP-2020-blue?style=flat-square&logo=book)</sub>  
-- **High-Precision Extraction of Emerging Concepts from Scientific Literature** (2020, *SIGIR*) 
-  [[Paper]](https://doi.org/10.1145/3397271.3401416) <sub>![](https://img.shields.io/badge/SIGIR-2020-blue?style=flat-square&logo=acm)</sub>  
-- **Language Agents Achieve Superhuman Synthesis of Scientific Knowledge** (2024, *arXiv preprint*) 
-  [[Paper]](https://arxiv.org/abs/2409.13740) <sub>![](https://img.shields.io/badge/arXiv-2409.13740-red?style=flat-square&logo=arxiv)</sub>  
-- **Learn to Explain: Multimodal Reasoning via Thought Chains for Science QA** (2022, *NeurIPS*) 
-  [[Paper]](https://papers.nips.cc/paper_files/paper/2022/hash/47d7a61e69e5773a22d6b7d016350fc8-Abstract-Conference.html) <sub>![](https://img.shields.io/badge/NeurIPS-2022-blue?style=flat-square&logo=book)</sub>  
-
 ### Collaborative-Augmented Knowledge Acquisition and Problem Generation
 
 + **AIRUS: a simple workflow for AI-assisted exploration of scientific data** (2025, *bioRxiv*)  
@@ -114,7 +75,100 @@
 - **Can Large Language Models Unlock Novel Scientific Research Ideas?** (2024, *arXiv preprint*) 
   [[Paper]](https://arxiv.org/abs/2409.06185) <sub>![](https://img.shields.io/badge/arXiv-2409.06185-red?style=flat-square&logo=arxiv)</sub>  
 
+### Automated Knowledge Acquisition and Problem Generation
+
++ **AI and Generative AI for Research Discovery and Summarization** (2024, *Harvard Data Science Review*) 
+  [[Paper]](https://hdsr.mitpress.mit.edu/pub/xedo5giw) <sub>![](https://img.shields.io/badge/HDSR-2024-blue?style=flat-square&logo=book)</sub>  
+- **SciBERT: A Pretrained Language Model for Scientific Text** (2019, *EMNLP-IJCNLP*) 
+  [[Paper]](https://aclanthology.org/D19-1371/) <sub>![](https://img.shields.io/badge/EMNLP_IJCNLP-2019-blue?style=flat-square&logo=acl)</sub> [[Code]](https://github.com/allenai/scibert)
+- **Surveyx: Academic Survey Automation via Large Language Models** (2025, *arXiv preprint*) 
+  [[Paper]](https://arxiv.org/abs/2502.14776) <sub>![](https://img.shields.io/badge/arXiv-2502.14776-red?style=flat-square&logo=arxiv)</sub>  
+- **SciQAG: A Framework for Auto-Generated Science Question Answering Dataset with Fine-grained Evaluation** (2024, *arXiv preprint*) 
+  [[Paper]](https://arxiv.org/abs/2405.09939) <sub>![](https://img.shields.io/badge/arXiv-2405.09939-red?style=flat-square&logo=arxiv)</sub>  
+- **Automating Research Synthesis with Domain-Specific Large Language Model Fine-Tuning** (2025, *ACM TKDD*) 
+  [[Paper]](http://dx.doi.org/10.1145/3715964) <sub>![](https://img.shields.io/badge/TKDD-2025-blue?style=flat-square&logo=acm)</sub>  
+- **ResearchAgent: Iterative Research Idea Generation over Scientific Literature with LLMs** (2024, *arXiv preprint*) 
+  [[Paper]](https://arxiv.org/abs/2404.07738) <sub>![](https://img.shields.io/badge/arXiv-2404.07738-red?style=flat-square&logo=arxiv)</sub>  
+- **An Accurate and Efficient Approach to Knowledge Extraction from Scientific Publications using Structured Ontology Models, Graph Neural Networks, and LLMs** (2024, *IJMS*) 
+  [[Paper]](https://doi.org/10.3390/ijms252111811) <sub>![](https://img.shields.io/badge/IJMS-2024-green?style=flat-square&logo=book)</sub>  
+- **Automated Literature Research and Review-Generation Method Based on LLMs** (2025, *National Science Review*) 
+  [[Paper]](https://doi.org/10.1093/nsr/nwaf169) <sub>![](https://img.shields.io/badge/NSR-2025-green?style=flat-square&logo=book)</sub>  
+- **The SciQA Scientific Question Answering Benchmark for Scholarly Knowledge** (2023, *Scientific Reports*) 
+  [[Paper]](https://doi.org/10.1038/s41598-023-34523-0) <sub>![](https://img.shields.io/badge/SciRep-2023-green?style=flat-square&logo=book)</sub>  
+- **BIGPATENT: A Large-Scale Dataset for Abstractive and Coherent Summarization** (2019, *arXiv preprint*) 
+  [[Paper]](https://arxiv.org/abs/1906.03741) <sub>![](https://img.shields.io/badge/arXiv-1906.03741-red?style=flat-square&logo=arxiv)</sub>  
+- **TLDR: Extreme Summarization of Scientific Documents** (2020, *arXiv preprint*) 
+  [[Paper]](https://arxiv.org/abs/2004.15011) <sub>![](https://img.shields.io/badge/arXiv-2004.15011-red?style=flat-square&logo=arxiv)</sub>  
+- **Structured Information Extraction from Complex Scientific Text with Fine-Tuned LLMs** (2022, *arXiv preprint*) 
+  [[Paper]](https://arxiv.org/abs/2212.05238) <sub>![](https://img.shields.io/badge/arXiv-2212.05238-red?style=flat-square&logo=arxiv)</sub>  
+- **LitLLM: A Toolkit for Scientific Literature Review** (2024, *arXiv preprint*) 
+  [[Paper]](https://arxiv.org/abs/2402.01788) <sub>![](https://img.shields.io/badge/arXiv-2402.01788-red?style=flat-square&logo=arxiv)</sub>  
+- **PubTator Central: Automated Concept Annotation for Biomedical Full Text Articles** (2019, *Nucleic Acids Research*) 
+  [[Paper]](https://doi.org/10.1093/nar/gkz389) <sub>![](https://img.shields.io/badge/NAR-2019-green?style=flat-square&logo=book)</sub>  
+- **Improving Access to Scientific Literature with Knowledge Graphs** (2020, *Bibliothek Forschung und Praxis*) 
+  [[Paper]](https://doi.org/10.1515/bfp-2020-0046) <sub>![](https://img.shields.io/badge/BFP-2020-blue?style=flat-square&logo=book)</sub>  
+- **High-Precision Extraction of Emerging Concepts from Scientific Literature** (2020, *SIGIR*) 
+  [[Paper]](https://doi.org/10.1145/3397271.3401416) <sub>![](https://img.shields.io/badge/SIGIR-2020-blue?style=flat-square&logo=acm)</sub>  
+- **Language Agents Achieve Superhuman Synthesis of Scientific Knowledge** (2024, *arXiv preprint*) 
+  [[Paper]](https://arxiv.org/abs/2409.13740) <sub>![](https://img.shields.io/badge/arXiv-2409.13740-red?style=flat-square&logo=arxiv)</sub>  
+- **Learn to Explain: Multimodal Reasoning via Thought Chains for Science QA** (2022, *NeurIPS*) 
+  [[Paper]](https://papers.nips.cc/paper_files/paper/2022/hash/47d7a61e69e5773a22d6b7d016350fc8-Abstract-Conference.html) <sub>![](https://img.shields.io/badge/NeurIPS-2022-blue?style=flat-square&logo=book)</sub>  
+
+
 ## Idea and Hypothesis Generation
+
+### Collaborative-Augmented Idea and Hypothesis Generation
+
+
+- **AI/RHEUM. A consultant system for rheumatology** (1983-06, *Journal of Medical Systems*)  
+  [[Paper]](https://doi.org/10.1007/BF00993283) <sub>![](https://img.shields.io/badge/J_Med_Syst-1983-green?style=flat-square&logo=book)</sub>
+
+- **Using ARROWSMITH: a computer-assisted approach to formulating and assessing scientific hypotheses** (1998-11, *Computer Methods and Programs in Biomedicine*)  
+  [[Paper]](https://pubmed.ncbi.nlm.nih.gov/9822851/) <sub>![](https://img.shields.io/badge/Comp_Methods_Biomed-1998-green?style=flat-square&logo=book)</sub>
+
+- **Crowdsourced RNA design discovers diverse, reversible, efficient, self-contained molecular switches** (2022-05, *PNAS*)  
+  [[Paper]](https://www.pnas.org/doi/10.1073/pnas.2112979119) <sub>![](https://img.shields.io/badge/PNAS-2022-green?style=flat-square&logo=book)</sub>
+
+- **Human-In-the-Loop for Bayesian Autonomous Materials Phase Mapping** (2023-06, *arXiv*)  
+  [[Paper]](https://arxiv.org/abs/2306.10406) <sub>![](https://img.shields.io/badge/arXiv-2023-red?style=flat-square&logo=book)</sub> [[Code]](https://github.com/fadams-umd/CAMEO-HITL)
+
+- **Human-in-the-loop active learning for goal-oriented molecule generation** (2024, *Journal of Cheminformatics*)  
+  [[Paper]](https://doi.org/10.1186/s13321-024-00924-y) <sub>![](https://img.shields.io/badge/J_Cheminformatics-2024-green?style=flat-square&logo=book)</sub> [[Code]](https://github.com/yasminenahal/hitl-al-gomg)
+
+- **Guided Statistical Workflows with Interactive Explanations and Assumption Checking** (2024-10, *arXiv*)  
+  [[Paper]](https://arxiv.org/abs/2410.00365) <sub>![](https://img.shields.io/badge/arXiv-2024-red?style=flat-square&logo=book)</sub>
+
+- **Scideator: Human-LLM Scientific Idea Generation Grounded in Research-Paper Facet Recombination** (2024-09, *arXiv*)  
+  [[Paper]](https://arxiv.org/abs/2409.14634) <sub>![](https://img.shields.io/badge/arXiv-2024-red?style=flat-square&logo=book)</sub>
+
+- **IdeaSynth: Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback** (2025-04, *CHI*)  
+  [[Paper]](https://dl.acm.org/doi/10.1145/3706598.3714057) <sub>![](https://img.shields.io/badge/CHI-2025-orange?style=flat-square&logo=book)</sub>
+
+- **IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery** (2025-04, *arXiv / ACL demo*)  
+  [[Paper]](https://arxiv.org/abs/2504.16728) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub> [[Code]](https://github.com/Anikethh/IRIS-Interactive-Research-Ideation-System)
+
+- **PriM: Principle-Inspired Material Discovery through Multi-Agent Collaboration** (2025-04, *arXiv*)  
+  [[Paper]](https://arxiv.org/abs/2504.08810) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub> [[Code]](https://github.com/amair-lab/PriM)
+
+- **AI-Assisted Hypothesis Generation to Address Challenges in Cardiotoxicity Research: Simulation Study Using ChatGPT With GPT-4o** (2025-05, *Journal of Medical Internet Research*)  
+  [[Paper]](https://www.jmir.org/2025/1/e66161) <sub>![](https://img.shields.io/badge/JMIR-2025-green?style=flat-square&logo=book)</sub>
+
+- **Scientific hypothesis generation by large language models: laboratory validation in breast cancer treatment** (2025-06, *Journal of The Royal Society Interface*)  
+  [[Paper]](https://doi.org/10.1098/rsif.2024.0674) <sub>![](https://img.shields.io/badge/JRS_Interface-2025-green?style=flat-square&logo=book)</sub>
+
+- **Hypothesis Generation for Materials Discovery and Design Using Goal-Driven and Constraint-Guided LLM Agents** (2025-01-23, *arXiv / NAACL Findings*)  
+  [[Paper]](https://arxiv.org/abs/2501.13299) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub> [[Code]](https://github.com/shri071/Hypothesis-Generation-for-Materials-Discovery-and-Design-Using-Goal-Driven-and-Constraint-Guided-LLM)
+
+- **\"The Diagram is like Guardrails\": Structuring GenAI-assisted Hypotheses Exploration with an Interactive Shared Representation** (2025, *Creativity & Cognition / C&C*)  
+  [[Paper]](https://doi.org/10.1145/3698061.3726935) <sub>![](https://img.shields.io/badge/C&C-2025-orange?style=flat-square&logo=book)</sub>
+
+- **HypoChainer: A Collaborative System Combining LLMs and Knowledge Graphs for Hypothesis-Driven Scientific Discovery** (2025-07, *arXiv*)  
+  [[Paper]](https://arxiv.org/abs/2507.17209) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub>
+
+- **PersonaFlow: Designing LLM-Simulated Expert Perspectives for Enhanced Research Ideation** (2025-07, *DIS*)  
+  [[Paper]](https://dl.acm.org/doi/10.1145/3715336.3735789) <sub>![](https://img.shields.io/badge/DIS-2025-orange?style=flat-square&logo=book)</sub>
+
+
 ### Automated Idea and Hypothesis Generation
 
 - **DENDRAL: A case study of the first expert system for scientific hypothesis formation** (1993-06, *Artificial Intelligence*)  
@@ -206,64 +260,31 @@
 
 
 
-### Collaborative-Augmented Idea and Hypothesis Generation
-
-
-- **AI/RHEUM. A consultant system for rheumatology** (1983-06, *Journal of Medical Systems*)  
-  [[Paper]](https://doi.org/10.1007/BF00993283) <sub>![](https://img.shields.io/badge/J_Med_Syst-1983-green?style=flat-square&logo=book)</sub>
-
-- **Using ARROWSMITH: a computer-assisted approach to formulating and assessing scientific hypotheses** (1998-11, *Computer Methods and Programs in Biomedicine*)  
-  [[Paper]](https://pubmed.ncbi.nlm.nih.gov/9822851/) <sub>![](https://img.shields.io/badge/Comp_Methods_Biomed-1998-green?style=flat-square&logo=book)</sub>
-
-- **Crowdsourced RNA design discovers diverse, reversible, efficient, self-contained molecular switches** (2022-05, *PNAS*)  
-  [[Paper]](https://www.pnas.org/doi/10.1073/pnas.2112979119) <sub>![](https://img.shields.io/badge/PNAS-2022-green?style=flat-square&logo=book)</sub>
-
-- **Human-In-the-Loop for Bayesian Autonomous Materials Phase Mapping** (2023-06, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2306.10406) <sub>![](https://img.shields.io/badge/arXiv-2023-red?style=flat-square&logo=book)</sub> [[Code]](https://github.com/fadams-umd/CAMEO-HITL)
-
-- **Human-in-the-loop active learning for goal-oriented molecule generation** (2024, *Journal of Cheminformatics*)  
-  [[Paper]](https://doi.org/10.1186/s13321-024-00924-y) <sub>![](https://img.shields.io/badge/J_Cheminformatics-2024-green?style=flat-square&logo=book)</sub> [[Code]](https://github.com/yasminenahal/hitl-al-gomg)
-
-- **Guided Statistical Workflows with Interactive Explanations and Assumption Checking** (2024-10, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2410.00365) <sub>![](https://img.shields.io/badge/arXiv-2024-red?style=flat-square&logo=book)</sub>
-
-- **Scideator: Human-LLM Scientific Idea Generation Grounded in Research-Paper Facet Recombination** (2024-09, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2409.14634) <sub>![](https://img.shields.io/badge/arXiv-2024-red?style=flat-square&logo=book)</sub>
-
-- **IdeaSynth: Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback** (2025-04, *CHI*)  
-  [[Paper]](https://dl.acm.org/doi/10.1145/3706598.3714057) <sub>![](https://img.shields.io/badge/CHI-2025-orange?style=flat-square&logo=book)</sub>
-
-- **IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery** (2025-04, *arXiv / ACL demo*)  
-  [[Paper]](https://arxiv.org/abs/2504.16728) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub> [[Code]](https://github.com/Anikethh/IRIS-Interactive-Research-Ideation-System)
-
-- **PriM: Principle-Inspired Material Discovery through Multi-Agent Collaboration** (2025-04, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2504.08810) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub> [[Code]](https://github.com/amair-lab/PriM)
-
-- **AI-Assisted Hypothesis Generation to Address Challenges in Cardiotoxicity Research: Simulation Study Using ChatGPT With GPT-4o** (2025-05, *Journal of Medical Internet Research*)  
-  [[Paper]](https://www.jmir.org/2025/1/e66161) <sub>![](https://img.shields.io/badge/JMIR-2025-green?style=flat-square&logo=book)</sub>
-
-- **Scientific hypothesis generation by large language models: laboratory validation in breast cancer treatment** (2025-06, *Journal of The Royal Society Interface*)  
-  [[Paper]](https://doi.org/10.1098/rsif.2024.0674) <sub>![](https://img.shields.io/badge/JRS_Interface-2025-green?style=flat-square&logo=book)</sub>
-
-- **Hypothesis Generation for Materials Discovery and Design Using Goal-Driven and Constraint-Guided LLM Agents** (2025-01-23, *arXiv / NAACL Findings*)  
-  [[Paper]](https://arxiv.org/abs/2501.13299) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub> [[Code]](https://github.com/shri071/Hypothesis-Generation-for-Materials-Discovery-and-Design-Using-Goal-Driven-and-Constraint-Guided-LLM)
-
-- **\"The Diagram is like Guardrails\": Structuring GenAI-assisted Hypotheses Exploration with an Interactive Shared Representation** (2025, *Creativity & Cognition / C&C*)  
-  [[Paper]](https://doi.org/10.1145/3698061.3726935) <sub>![](https://img.shields.io/badge/C&C-2025-orange?style=flat-square&logo=book)</sub>
-
-- **HypoChainer: A Collaborative System Combining LLMs and Knowledge Graphs for Hypothesis-Driven Scientific Discovery** (2025-07, *arXiv*)  
-  [[Paper]](https://arxiv.org/abs/2507.17209) <sub>![](https://img.shields.io/badge/arXiv-2025-red?style=flat-square&logo=book)</sub>
-
-- **PersonaFlow: Designing LLM-Simulated Expert Perspectives for Enhanced Research Ideation** (2025-07, *DIS*)  
-  [[Paper]](https://dl.acm.org/doi/10.1145/3715336.3735789) <sub>![](https://img.shields.io/badge/DIS-2025-orange?style=flat-square&logo=book)</sub>
-
-
-
-
-
-
 
 ## Experiment Design and Execution
+
+### Collaborative-Augmented Experiment Design and Execution
+
++ **Building workflows for an interactive human-in-the-loop automated experiment (hAE) in STEM-EELS** (2025, *Digital Discovery*)  
+- **BO-Muse: A human expert and AI teaming framework for accelerated experimental design** (2023, *arXiv preprint*) 
+  [[Paper]](https://arxiv.org/abs/2303.01684) <sub>![](https://img.shields.io/badge/arXiv-2303.01684-red?style=flat-square&logo=arxiv)</sub>  
+- **Cocoa: Co-planning and co-execution with ai agents** (2024, *arXiv preprint*) 
+  [[Paper]](https://arxiv.org/abs/2412.10999) <sub>![](https://img.shields.io/badge/arXiv-2412.10999-red?style=flat-square&logo=arxiv)</sub>  
+- **Crispr-gpt: An llm agent for automated design of gene-editing experiments** (2024, *arXiv preprint*) 
+  [[Paper]](https://arxiv.org/abs/2404.18021) <sub>![](https://img.shields.io/badge/arXiv-2404.18021-red?style=flat-square&logo=arxiv)</sub>  
+- **MatPilot: an LLM-enabled AI Materials Scientist under the Framework of Human-Machine Collaboration** (2024, *arXiv*) 
+  [[Paper]](https://api.semanticscholar.org/CorpusID:273993701)  
+- **ChemOS: orchestrating autonomous experimentation** (2018, *Science Robotics*)  
++ **BoxingGym: Benchmarking Progress in Automated Experimental Design and Model Discovery** (2025, *arXiv preprint*)  
+  [[Paper]](https://arxiv.org/abs/2501.01540) <sub>![](https://img.shields.io/badge/arXiv-2501.01540-red?style=flat-square&logo=arxiv)</sub>  
+- **MLR-Bench: Evaluating AI Agents on Open-Ended Machine Learning Research** (2025, *arXiv preprint*)  
+  [[Paper]](https://arxiv.org/abs/2505.19955) <sub>![](https://img.shields.io/badge/arXiv-2505.19955-red?style=flat-square&logo=arxiv)</sub>  
+
+- **Researchbench: Benchmarking llms in scientific discovery via inspiration-based task decomposition** (2025, *arXiv preprint*)  
+  [[Paper]](https://arxiv.org/abs/2503.21248) <sub>![](https://img.shields.io/badge/arXiv-2503.21248-red?style=flat-square&logo=arxiv)</sub>  
+
+- **AI-Researcher: Autonomous Scientific Innovation** (2025, *arXiv preprint*)  
+  [[Paper]](https://arxiv.org/abs/2505.18705) <sub>![](https://img.shields.io/badge/arXiv-2505.18705-red?style=flat-square&logo=arxiv)</sub>  
 
 ### Automated Experiment Design and Execution
 
@@ -293,32 +314,25 @@
 
 - **Nextflow enables reproducible computational workflows** (2017, *Nature Biotechnology*)  
 
-### Collaborative-Augmented Experiment Design and Execution
-
-+ **Building workflows for an interactive human-in-the-loop automated experiment (hAE) in STEM-EELS** (2025, *Digital Discovery*)  
-- **BO-Muse: A human expert and AI teaming framework for accelerated experimental design** (2023, *arXiv preprint*) 
-  [[Paper]](https://arxiv.org/abs/2303.01684) <sub>![](https://img.shields.io/badge/arXiv-2303.01684-red?style=flat-square&logo=arxiv)</sub>  
-- **Cocoa: Co-planning and co-execution with ai agents** (2024, *arXiv preprint*) 
-  [[Paper]](https://arxiv.org/abs/2412.10999) <sub>![](https://img.shields.io/badge/arXiv-2412.10999-red?style=flat-square&logo=arxiv)</sub>  
-- **Crispr-gpt: An llm agent for automated design of gene-editing experiments** (2024, *arXiv preprint*) 
-  [[Paper]](https://arxiv.org/abs/2404.18021) <sub>![](https://img.shields.io/badge/arXiv-2404.18021-red?style=flat-square&logo=arxiv)</sub>  
-- **MatPilot: an LLM-enabled AI Materials Scientist under the Framework of Human-Machine Collaboration** (2024, *arXiv*) 
-  [[Paper]](https://api.semanticscholar.org/CorpusID:273993701)  
-- **ChemOS: orchestrating autonomous experimentation** (2018, *Science Robotics*)  
-+ **BoxingGym: Benchmarking Progress in Automated Experimental Design and Model Discovery** (2025, *arXiv preprint*)  
-  [[Paper]](https://arxiv.org/abs/2501.01540) <sub>![](https://img.shields.io/badge/arXiv-2501.01540-red?style=flat-square&logo=arxiv)</sub>  
-- **MLR-Bench: Evaluating AI Agents on Open-Ended Machine Learning Research** (2025, *arXiv preprint*)  
-  [[Paper]](https://arxiv.org/abs/2505.19955) <sub>![](https://img.shields.io/badge/arXiv-2505.19955-red?style=flat-square&logo=arxiv)</sub>  
-
-- **Researchbench: Benchmarking llms in scientific discovery via inspiration-based task decomposition** (2025, *arXiv preprint*)  
-  [[Paper]](https://arxiv.org/abs/2503.21248) <sub>![](https://img.shields.io/badge/arXiv-2503.21248-red?style=flat-square&logo=arxiv)</sub>  
-
-- **AI-Researcher: Autonomous Scientific Innovation** (2025, *arXiv preprint*)  
-  [[Paper]](https://arxiv.org/abs/2505.18705) <sub>![](https://img.shields.io/badge/arXiv-2505.18705-red?style=flat-square&logo=arxiv)</sub>  
 
 ---
 
 ## Scientific Communication and Presentation
+
+### Collaborative-Augmented Scientific Communication and Presentation
+
+- **XtraGPT: LLMs for Human-AI Collaboration on Controllable Academic Paper Revision** (2025, *arXiv preprint*)
+  [[Paper]](https://arxiv.org/abs/2505.11336) <sub>![](https://img.shields.io/badge/arXiv-2505.11336-red?style=flat-square&logo=arxiv)</sub>
+
+- **Scholarcopilot: Training large language models for academic writing with accurate citations** (2025, *arXiv preprint*)
+  [[Paper]](https://arxiv.org/abs/2504.00824) <sub>![](https://img.shields.io/badge/arXiv-2504.00824-red?style=flat-square&logo=arxiv)</sub>
+
+- **ConvXAI: Delivering heterogeneous AI explanations via conversations to support human-AI scientific writing** (2023, *Companion publication of the 2023 conference on computer supported cooperative work and social computing*)
+  [[Paper]](https://arxiv.org/abs/2305.09770) <sub>![](https://img.shields.io/badge/arXiv-2305.09770-red?style=flat-square&logo=arxiv)</sub>
+
+- **Sparks: Inspiration for science writing using language models** (2022, *Proceedings of the 2022 ACM Designing Interactive Systems Conference*)
+  [[Paper]](https://aclanthology.org/2022.in2writing-1.12/)
+  
 
 ### Automated Scientific Communication and Presentation
 
@@ -383,26 +397,31 @@
   [[Paper]](https://arxiv.org/abs/2510.05096) <sub>![](https://img.shields.io/badge/arXiv-2510.05096-red?style=flat-square&logo=arxiv)</sub>
 
 
-### Collaborative-Augmented Scientific Communication and Presentation
-
-- **XtraGPT: LLMs for Human-AI Collaboration on Controllable Academic Paper Revision** (2025, *arXiv preprint*)
-  [[Paper]](https://arxiv.org/abs/2505.11336) <sub>![](https://img.shields.io/badge/arXiv-2505.11336-red?style=flat-square&logo=arxiv)</sub>
-
-- **Scholarcopilot: Training large language models for academic writing with accurate citations** (2025, *arXiv preprint*)
-  [[Paper]](https://arxiv.org/abs/2504.00824) <sub>![](https://img.shields.io/badge/arXiv-2504.00824-red?style=flat-square&logo=arxiv)</sub>
-
-- **ConvXAI: Delivering heterogeneous AI explanations via conversations to support human-AI scientific writing** (2023, *Companion publication of the 2023 conference on computer supported cooperative work and social computing*)
-  [[Paper]](https://arxiv.org/abs/2305.09770) <sub>![](https://img.shields.io/badge/arXiv-2305.09770-red?style=flat-square&logo=arxiv)</sub>
-
-- **Sparks: Inspiration for science writing using language models** (2022, *Proceedings of the 2022 ACM Designing Interactive Systems Conference*)
-  [[Paper]](https://aclanthology.org/2022.in2writing-1.12/)
-
-
 <!-- ### Evaluation -->
 
 ---
 
 ## Integrated Systems for Science and Innovation
+
+### Human-AI Collaborative Scientific Discovery and Innovation Systems (HACSDIS)
+
+- **A GPT-4 Reticular Chemist for Guiding MOF Discovery** (2023, *arXiv preprint*)
+  [[Paper]](https://arxiv.org/abs/2306.14915) <sub>![](https://img.shields.io/badge/arXiv-2306.14915-red?style=flat-square&logo=arxiv)</sub>
+
+
+- **VISION: A Modular AI Assistant for Natural Human-Instrument Interaction at Scientific User Facilities** (2024, *arXiv preprint*)
+  [[Paper]](https://arxiv.org/abs/2412.18161) <sub>![](https://img.shields.io/badge/arXiv-2412.18161-red?style=flat-square&logo=arxiv)</sub>
+
+
+- **Agent Laboratory: Using LLM Agents as Research Assistants** (2025, *arXiv preprint*)
+  [[Paper]](https://arxiv.org/abs/2501.04227) <sub>![](https://img.shields.io/badge/arXiv-2501.04227-red?style=flat-square&logo=arxiv)</sub>
+
+- **Towards an AI co-scientist** (2025, *arXiv preprint*)
+  [[Paper]](https://arxiv.org/abs/2502.18864) <sub>![](https://img.shields.io/badge/arXiv-2502.18864-red?style=flat-square&logo=arxiv)</sub>
+
+- **Interaction as Intelligence: Deep Research With Human-AI Partnership** (2025, *arXiv preprint*)
+  [[Paper]](https://arxiv.org/abs/2507.15759) <sub>![](https://img.shields.io/badge/arXiv-2507.15759-red?style=flat-square&logo=arxiv)</sub>
+
 ### Fully Automated Scientific Discovery and Innovation Systems (ASDIS)
 - **An autonomous laboratory for the accelerated synthesis of novel materials** (2023, *Nature Communications*)
   [[Paper]](https://www.nature.com/articles/s41586-023-06734-w) <sub>![](https://img.shields.io/badge/Nature_Communications-2023-darkgreen?style=flat-square&logo=book)</sub>
@@ -446,24 +465,6 @@
 - **Intern-S1: A Scientific Multimodal Foundation Model** (2025, *arXiv preprint*)
   [[Paper]](https://arxiv.org/abs/2508.15763) <sub>![](https://img.shields.io/badge/arXiv-2508.15763-red?style=flat-square&logo=arxiv)</sub>
 
-### Human-AI Collaborative Scientific Discovery and Innovation Systems (HACSDIS)
-
-- **A GPT-4 Reticular Chemist for Guiding MOF Discovery** (2023, *arXiv preprint*)
-  [[Paper]](https://arxiv.org/abs/2306.14915) <sub>![](https://img.shields.io/badge/arXiv-2306.14915-red?style=flat-square&logo=arxiv)</sub>
-
-
-- **VISION: A Modular AI Assistant for Natural Human-Instrument Interaction at Scientific User Facilities** (2024, *arXiv preprint*)
-  [[Paper]](https://arxiv.org/abs/2412.18161) <sub>![](https://img.shields.io/badge/arXiv-2412.18161-red?style=flat-square&logo=arxiv)</sub>
-
-
-- **Agent Laboratory: Using LLM Agents as Research Assistants** (2025, *arXiv preprint*)
-  [[Paper]](https://arxiv.org/abs/2501.04227) <sub>![](https://img.shields.io/badge/arXiv-2501.04227-red?style=flat-square&logo=arxiv)</sub>
-
-- **Towards an AI co-scientist** (2025, *arXiv preprint*)
-  [[Paper]](https://arxiv.org/abs/2502.18864) <sub>![](https://img.shields.io/badge/arXiv-2502.18864-red?style=flat-square&logo=arxiv)</sub>
-
-- **Interaction as Intelligence: Deep Research With Human-AI Partnership** (2025, *arXiv preprint*)
-  [[Paper]](https://arxiv.org/abs/2507.15759) <sub>![](https://img.shields.io/badge/arXiv-2507.15759-red?style=flat-square&logo=arxiv)</sub>
 
 
 ### Evaluation
