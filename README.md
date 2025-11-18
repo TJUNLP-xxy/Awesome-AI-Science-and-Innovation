@@ -4,7 +4,7 @@
 > It systematically spans the **end-to-end scientific workflow** — from *knowledge acquisition and problem generation*, *idea and hypothesis generation*, *experiment design and execution*, to *scientific communication*, *integrated discovery systems*, and *domain-specific innovations*.  
 > Our goal is to create a **comprehensive, up-to-date, and centralized resource hub** that supports both researchers and practitioners in exploring the **automation and human-AI collaboration paradigms** of AI-driven science.
 > For more details, you can refer to our paper:  
-> **[Towards AI-Driven Science and Innovation: Paradigms, Practices, Challenges, and Horizons](https://github.com/TJUNLP-xxy/Awesome-AI-Science-and-Innovation/blob/main/paper/Towards%20AI-Driven%20Science%20and%20Innovation%20Paradigms%2C%20Pratices%2C%20Challenges%2C%20and%20Horizons.pdf)**.
+> **[Towards AI-Driven Science and Innovation: Paradigms, Practices, Challenges, and Horizons](https://doi.org/10.5281/zenodo.17636709)**.
 
 ---
 
@@ -657,6 +657,22 @@
 ## Contributing
 
 Contributions are welcome! Please check [CONTRIBUTING.md](./CONTRIBUTING.md) for details on how to add new papers, tools, benchmarks, or case studies.
+
+---
+
+## Citation
+
+If you find this repository helpful, please cite our work:
+
+```bibtex
+@misc{xiong2025aidrivenscience,
+  title        = {Towards AI-Driven Science and Innovation: Paradigms, Practices, Challenges, and Horizons},
+  author       = {Xiong, Xiaoyu and Wang, Hao and Wu, Keming and Zhao, Hanjie and Wang, Hongxiang and Liu, Hao and Xiong, Deyi},
+  year         = {2025},
+  doi          = {10.5281/zenodo.17636709},
+  url          = {https://doi.org/10.5281/zenodo.17636709}
+}
+```
 
 ---
 
